@@ -1,0 +1,9 @@
+Traquer les traqueurs : Le but d'exodus Privacy.
+
+Dans les applications mobiles utilisées au quotidien, sont souvent embarqués des pisteurs qui remontent vos informations personnelles vers des régies publicitaires que vous ne connaissez pas, parfois sans même vous demander votre avis.
+
+En décembre dernier, l'association Exodus privacy à lancé la plateforme exodus-privacy.eu.org pour vous permettre de débusquer les pisteurs présents dans les applications que vous utilisez.
+
+Nous aborderons d'une part le fonctionnement technique d'un pisteur et de sa détection, et d'autre part une vue d'ensemble de l'environnement de surveillance très concentré qui en découle.
+
+Puis nous en viendrons à nous projeter et imaginer comment exodus peut évoluer avec vous.
