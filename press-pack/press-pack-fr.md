@@ -49,3 +49,6 @@ Mail presse : press@exodus-privacy.eu.org
  - The Intercept on Nov 24 2017 - [Staggering Variety of Clandestine Trackers Found in Popular](https://theintercept.com/2017/11/24/staggering-variety-of-clandestine-trackers-found-in-popular-android-apps/)
 
 ### 7. Glossaire
+Pisteur : morceaux de code qui, si activés, font remonter des informations à un tiers sur l'utilisateur et l'usage qu'il fait de l'application.
+
+APK : Android Package Kit, désigne des fichiers binaires nécessaires au fonctionnement de l'application. C'est dans ces fichiers que se trouvent les pisteurs.
