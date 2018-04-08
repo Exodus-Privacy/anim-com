@@ -9,7 +9,7 @@ Site internet : https://exodus-privacy.eu.org/
 Contact presse : press@exodus-privacy.eu.org
 
 ### 2. Présentation
-### 3. MediaKit
+### 3. Média-Kit
 Le média-kit comprend :
  - Ce dossier de presse au format PDF.
  - Le logo de Exodus privacy.
