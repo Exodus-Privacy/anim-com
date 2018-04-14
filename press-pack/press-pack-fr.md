@@ -17,12 +17,12 @@ Le média-kit comprend :
  - Une photo prise lors d'une conférence.
 
 ### 4. Historique
-Le 25 août 2017, U+039B, l'actuelle présidente fondatrice de l'association lance un post sur Mastodon afin d'attirer l'attention sur la présence d'un pisteur de la firme Teemo, dans plusieurs applications Android et met au point une méthode primitive de détection de ce pisteur.
+Le 25 août 2017, U+039B, l'actuelle présidente fondatrice de l'association diffuse un message le réseau social Mastodon afin d'attirer l'attention sur la présence d'un pisteur de la firme Teemo, dans plusieurs applications Android et met au point une méthode primitive de détection de ce pisteur.
 Peu à peu se forme une équipe de cinq personnes décidées à se réunir dans un projet qui deviendra Exodus Privacy. Cette association de fait s'est convertie en association loi 1901 le 10/10/2017.
 
 La plateforme référençant toutes les analyses faites par l'association a été ouverte au public le 24/11/2017, s'en suit une couverture médiatique dense sur le sujet des pisteurs dans les applications. Alerté par U+039B, le Yale Privacy Lab apporte son soutien au projet, entraînant la publication d'articles sur le sujet dans la presse anglophone.
 
-Le succès de la plateforme a conduit Exodus Privacy à être invité par la CNIL, qui s'est montrée très intéressée par l'outil et qui prévoit d'en faire un usage interne (non destiné à des fins de contrôle).
+Le succès de la plateforme a conduit Exodus Privacy à être invitée par la CNIL, qui s'est montrée très intéressée par l'outil et qui prévoit d'en faire un usage interne (non destiné à des fins de contrôle).
 
 Afin de permettre aux développeurs d'auditer leurs propres applications (car certaines dépendances embarquent des pisteurs), Exodus Privacy à mis au point un programme nommé exodus-standalone qui analyse un APK sans avoir à le télécharger depuis PlayStore de Google, le 19/12/2017.
 
@@ -33,7 +33,7 @@ Exodus Privacy est une association loi 1901. Elle est dirigée par un bureau com
 
 Son organisation est répartie dans trois groupes de travail : Animation & communication, Stratégie & partenariats et Technique & développement.
 
-L'association fonctionne grâce à des donations sans contrepartie. Les donateurs sont des personnes privées et quelques presonnes morales dont Qwant, La Quadrature du Net, Gandi ainsi que Codeurs en Liberté.
+L'association fonctionne grâce à des donations sans contrepartie. Les donateurs sont des personnes privées et quelques personnes morales dont Qwant, La Quadrature du Net, Gandi ainsi que Codeurs en Liberté.
 
 L'association a un partenariat avec F-Droid et Yale Privacy Lab.
 
