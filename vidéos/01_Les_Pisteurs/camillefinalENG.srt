@@ -1,0 +1,171 @@
+1
+00:00:07,000 --> 00:00:08,000
+Everyday,
+
+2
+00:00:08,000 --> 00:00:09,900
+Camille is using applications
+
+3
+00:00:09,900 --> 00:00:11,400
+on her phone
+
+4
+00:00:11,400 --> 00:00:13,900
+and they are very usefull
+
+5
+00:00:13,900 --> 00:00:15,500
+for example
+
+6
+00:00:15,500 --> 00:00:17,000
+for the weather
+
+7
+00:00:17,000 --> 00:00:18,900
+her bank account,
+
+8
+00:00:18,900 --> 00:00:21,500
+or her glycemia
+
+9
+00:00:21,500 --> 00:00:24,500
+because Camille is diabetic.
+
+10
+00:00:24,500 --> 00:00:27,500
+But, Camille dosn't know
+
+11
+00:00:27,500 --> 00:00:29,900
+that in every application
+
+12
+00:00:29,900 --> 00:00:31,000
+there are some trackers
+
+13
+00:00:31,000 --> 00:00:33,500
+These trackers has been added
+
+14
+00:00:33,400 --> 00:00:35,900
+when the application was created
+
+15
+00:00:35,900 --> 00:00:37,400
+in one and only purpose
+
+16
+00:00:37,400 --> 00:00:40,000
+to collect data.
+
+17
+00:00:40,000 --> 00:00:41,000
+For example,
+
+18
+00:00:41,000 --> 00:00:43,400
+the place where Camille lives
+
+19
+00:00:43,400 --> 00:00:45,000
+The place where she works
+
+20
+00:00:45,000 --> 00:00:47,000
+or the drugstore
+
+21
+00:00:47,000 --> 00:00:49,500
+where she gets her treatment.
+
+22
+00:00:49,500 --> 00:00:52,000
+Thanks to these trackers,
+
+23
+00:00:52,000 --> 00:00:54,500
+the creator of the application 
+
+24
+00:00:54,500 --> 00:00:58,000
+tout d'abord, de savoir qui utilise l'application
+
+25
+00:00:58,000 --> 00:01:01,000
+d'en connaître l'audience,
+
+26
+00:01:01,000 --> 00:01:02,500
+mais aussi,
+
+27
+00:01:02,500 --> 00:01:05,000
+if the application uses advertising
+
+28
+00:01:05,000 --> 00:01:06,800
+de cibler celle-ci au maximum.
+
+29
+00:01:06,800 --> 00:01:09,600
+en effet, plus la publicité est ciblée,
+
+30
+00:01:09,600 --> 00:01:11,500
+plus elle est efficace,
+
+31
+00:01:11,500 --> 00:01:14,000
+donc plus elle rapporte d'argent.
+
+32
+00:01:14,000 --> 00:01:15,000
+Et enfin, 
+
+33
+00:01:15,000 --> 00:01:17,000
+la personne à l'origine de l'application
+
+34
+00:01:17,000 --> 00:01:21,000
+peut revendre les données collectées par les pisteurs.
+
+35
+00:01:21,000 --> 00:01:23,700
+Mais ça, Camille, ça ne lui plaît pas trop,
+
+36
+00:01:23,700 --> 00:01:24,800
+tous ces pisteurs
+
+37
+00:01:24,800 --> 00:01:28,200
+qui collectent des choses sur elle à son insu.
+
+38
+00:01:28,200 --> 00:01:29,700
+Alors Camille, maintenant,
+
+39
+00:01:29,700 --> 00:01:32,000
+quand elle installe une application
+
+40
+00:01:32,000 --> 00:01:35,300
+elle va d'abord sur Exodus Privacy
+
+41
+00:01:35,300 --> 00:01:38,000
+Cette plateforme analyse
+
+42
+00:01:38,000 --> 00:01:40,000
+les applications gratuites du Google store
+
+43
+00:01:40,000 --> 00:01:44,300
+et détecte présence ou absence des pisteurs.
