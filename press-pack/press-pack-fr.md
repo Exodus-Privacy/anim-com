@@ -9,11 +9,12 @@ Site internet : https://exodus-privacy.eu.org/
 Contact presse : press@exodus-privacy.eu.org
 
 ### 2. Présentation
+
 ### 3. Média-Kit
 Le média-kit comprend :
  - Ce dossier de presse au format PDF.
  - Le logo de Exodus privacy.
- - Une photo tirée du reportage de France 2, figurant la présidente de l'association en plein travail
+ - Une photo tirée du reportage de France 2, figurant la présidente de l'association en plein travail.
  - Une photo prise lors d'une conférence.
 
 ### 4. Historique
