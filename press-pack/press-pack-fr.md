@@ -10,6 +10,11 @@ Contact presse : press@exodus-privacy.eu.org
 
 ### 2. Présentation
 
+Exodus privacy a développé plusieurs outils :
+- lister les outils
+
+Par ailleurs, l'association souhaite donner les moyens au grand public de prendre conscience de l'impact de la collecte de données et de l'importance d'un droit à l'intimité numérique. En cela, elle tend à rendre son travail le plus accessible possible, par le viais de ses rapports, d'une chaine Youtube ainsi que de conférences.
+
 ### 3. Média-Kit
 Le média-kit comprend :
  - Ce dossier de presse au format PDF.
@@ -18,12 +23,12 @@ Le média-kit comprend :
  - Une photo prise lors d'une conférence.
 
 ### 4. Historique
-Le 25 août 2017, U+039B, l'actuelle présidente fondatrice de l'association diffuse un message le réseau social Mastodon afin d'attirer l'attention sur la présence d'un pisteur de la firme Teemo, dans plusieurs applications Android et met au point une méthode primitive de détection de ce pisteur.
+Le 25 août 2017, U+039B, l'actuelle présidente fondatrice de l'association diffuse un message sur le réseau social Mastodon afin d'attirer l'attention sur la présence d'un pisteur de la firme Teemo, dans plusieurs applications Android et met au point une méthode primitive de détection de ce pisteur.
 Peu à peu se forme une équipe de cinq personnes décidées à se réunir dans un projet qui deviendra Exodus Privacy. Cette association de fait s'est convertie en association loi 1901 le 10/10/2017.
 
-La plateforme référençant toutes les analyses faites par l'association a été ouverte au public le 24/11/2017, s'en suit une couverture médiatique dense sur le sujet des pisteurs dans les applications. Alerté par U+039B, le Yale Privacy Lab apporte son soutien au projet, entraînant la publication d'articles sur le sujet dans la presse anglophone.
+La plateforme référençant toutes les analyses faites par l'association a été ouverte au public le 24/11/2017. S'en suit une couverture médiatique dense sur le sujet des pisteurs dans les applications. Alerté par U+039B, le Yale Privacy Lab apporte son soutien au projet, entraînant la publication d'articles sur le sujet dans la presse anglophone.
 
-Le succès de la plateforme a conduit Exodus Privacy à être invitée par la CNIL, qui s'est montrée très intéressée par l'outil et qui prévoit d'en faire un usage interne (non destiné à des fins de contrôle).
+Le succès de la plateforme a conduit Exodus Privacy à être invitée par la CNIL, très intéressée par l'outil et qui prévoit d'en faire un usage interne (non destiné à des fins de contrôle).
 
 Afin de permettre aux développeurs d'auditer leurs propres applications (car certaines dépendances embarquent des pisteurs), Exodus Privacy à mis au point un programme nommé exodus-standalone qui analyse un APK sans avoir à le télécharger depuis PlayStore de Google, le 19/12/2017.
 
