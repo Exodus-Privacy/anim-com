@@ -43,16 +43,14 @@ L'association fonctionne grâce à des donations sans contrepartie. Les donateur
 
 L'association a un partenariat avec F-Droid et Yale Privacy Lab.
 
-### 6. Présence
-#### 6.1 Présence lors d’événements
+### 6. Visibilité
+#### 6.1 Conférences et ateliers
 ##### Conférences
  - [Journées FedeRez](https://www.federez.net/journees/2018/) - Analyser le comportement des applications Android©, enjeux de vie privée
  - [Talk du Yale Privacy Lab à LibrePlanet 2018](https://media.libreplanet.org/u/libreplanet/m/exposing-hidden-surveillance-in-mobile-apps/)
  - Conférence Internet et ses travers du 07/11/2017 à Nantes
  - [Café Vie Privée](https://cafevieprivee-nantes.fr/) du 31/03/2018 à B17 (Nantes)
  - Petit talk au [34c3](https://events.ccc.de/congress/2017/wiki/index.php/Main_Page) dans la tea house de La Quadrature du Net.
-
-##### Ateliers
 
 #### 6.2 Présence numérique
 - Mail public : contact@exodus-privacy.eu.org
@@ -76,7 +74,11 @@ Mail presse : press@exodus-privacy.eu.org
  - Huffpost on Nov 28 2017 - [Precursor to Dystopia #3: “At this point we just have to save America.”](https://www.huffingtonpost.com/entry/precursor-to-dystopia-3-at-this-point-we-just-have_us_5a1e39b9e4b09de1c3585138)
  - The Intercept on Nov 24 2017 - [Staggering Variety of Clandestine Trackers Found in Popular](https://theintercept.com/2017/11/24/staggering-variety-of-clandestine-trackers-found-in-popular-android-apps/)
 
-### 7. Glossaire
+### 7. Autour d'Exodus Privacy
+Ces projets utilisent et mettent en forme les données et les outils d'Exodus Privacy :
+
+
+### 8. Glossaire
 Pisteur : morceau de logiciel qui, si activé, transmet des informations à un tiers sur l'utilisateur ou l'usage qu'il fait de l'application.
 
 APK : Android Package Kit, désigne des fichiers binaires nécessaires au fonctionnement de l'application. C'est dans ces fichiers que se trouvent les pisteurs.
