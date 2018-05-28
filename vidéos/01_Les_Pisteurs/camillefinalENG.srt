@@ -36,7 +36,7 @@ because Camille is diabetic.
 
 10
 00:00:24,500 --> 00:00:27,500
-But, Camille dosn't know
+But, Camille doesn't know
 
 11
 00:00:27,500 --> 00:00:29,900
@@ -92,15 +92,15 @@ the creator of the application
 
 24
 00:00:54,500 --> 00:00:58,000
-tout d'abord, de savoir qui utilise l'application
+first, the avability to know who's use the appl
 
 25
 00:00:58,000 --> 00:01:01,000
-d'en connaître l'audience,
+to know about the public,
 
 26
 00:01:01,000 --> 00:01:02,500
-mais aussi,
+but also,
 
 27
 00:01:02,500 --> 00:01:05,000
@@ -108,64 +108,64 @@ if the application uses advertising
 
 28
 00:01:05,000 --> 00:01:06,800
-de cibler celle-ci au maximum.
+to target then with maximum accurate.
 
 29
 00:01:06,800 --> 00:01:09,600
-en effet, plus la publicité est ciblée,
+More an advert is targeted,
 
 30
 00:01:09,600 --> 00:01:11,500
-plus elle est efficace,
+more it usefull,
 
 31
 00:01:11,500 --> 00:01:14,000
-donc plus elle rapporte d'argent.
+and them more it makes money.
 
 32
 00:01:14,000 --> 00:01:15,000
-Et enfin, 
+At least, 
 
 33
 00:01:15,000 --> 00:01:17,000
-la personne à l'origine de l'application
+the person who created the application
 
 34
 00:01:17,000 --> 00:01:21,000
-peut revendre les données collectées par les pisteurs.
+can resale the data collected by the trackers.
 
 35
 00:01:21,000 --> 00:01:23,700
-Mais ça, Camille, ça ne lui plaît pas trop,
+And Camille does not like very much,
 
 36
 00:01:23,700 --> 00:01:24,800
-tous ces pisteurs
+all these trackers
 
 37
 00:01:24,800 --> 00:01:28,200
-qui collectent des choses sur elle à son insu.
+collecting things about her without her knowning.
 
 38
 00:01:28,200 --> 00:01:29,700
-Alors Camille, maintenant,
+So now, Camille,
 
 39
 00:01:29,700 --> 00:01:32,000
-quand elle installe une application
+when she install a new application
 
 40
 00:01:32,000 --> 00:01:35,300
-elle va d'abord sur Exodus Privacy
+she go fist to the Exodus Privacy website.
 
 41
 00:01:35,300 --> 00:01:38,000
-Cette plateforme analyse
+This platform do analysis
 
 42
 00:01:38,000 --> 00:01:40,000
-les applications gratuites du Google store
+on the free Google Store apps
 
 43
 00:01:40,000 --> 00:01:44,300
-et détecte présence ou absence des pisteurs.
+and check if there is trackers on it.
