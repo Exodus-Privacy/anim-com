@@ -4,7 +4,7 @@ Everyday,
 
 2
 00:00:08,000 --> 00:00:09,900
-Camille is using applications
+Camille uses applications
 
 3
 00:00:09,900 --> 00:00:11,400
@@ -12,19 +12,19 @@ on her phone
 
 4
 00:00:11,400 --> 00:00:13,900
-and they are very usefull
+and they are very useful
 
 5
 00:00:13,900 --> 00:00:15,500
-for example
+For example
 
 6
 00:00:15,500 --> 00:00:17,000
-for the weather
+to know the weather,
 
 7
 00:00:17,000 --> 00:00:18,900
-her bank account,
+to check her bank account,
 
 8
 00:00:18,900 --> 00:00:21,500
@@ -36,19 +36,19 @@ because Camille is diabetic.
 
 10
 00:00:24,500 --> 00:00:27,500
-But, Camille doesn't know
+But, what Camille doesn't know
 
 11
 00:00:27,500 --> 00:00:29,900
-that in every application
+is that in each of these applications
 
 12
 00:00:29,900 --> 00:00:31,000
-there are some trackers
+there are trackers
 
 13
 00:00:31,000 --> 00:00:33,500
-These trackers has been added
+These trackers have been added
 
 14
 00:00:33,400 --> 00:00:35,900
@@ -56,23 +56,23 @@ when the application was created
 
 15
 00:00:35,900 --> 00:00:37,400
-in one and only purpose
+with the sole purpose of
 
 16
 00:00:37,400 --> 00:00:40,000
-to collect data.
+collecting data.
 
 17
 00:00:40,000 --> 00:00:41,000
-For example,
+Such as,
 
 18
 00:00:41,000 --> 00:00:43,400
-the place where Camille lives
+where Camille lives
 
 19
 00:00:43,400 --> 00:00:45,000
-The place where she works
+where she works
 
 20
 00:00:45,000 --> 00:00:47,000
@@ -84,19 +84,19 @@ where she gets her treatment.
 
 22
 00:00:49,500 --> 00:00:52,000
-Thanks to these trackers,
+These trackers allow the person
 
 23
 00:00:52,000 --> 00:00:54,500
-the creator of the application 
+who created the application to
 
 24
 00:00:54,500 --> 00:00:58,000
-first, the avability to know who's use the appl
+first, be able to know who uses the application
 
 25
 00:00:58,000 --> 00:01:01,000
-to know about the public,
+to know the audience,
 
 26
 00:01:01,000 --> 00:01:02,500
@@ -104,39 +104,39 @@ but also,
 
 27
 00:01:02,500 --> 00:01:05,000
-if the application uses advertising
+if they offer advertising
 
 28
 00:01:05,000 --> 00:01:06,800
-to target then with maximum accurate.
+to target it as much as they can.
 
 29
 00:01:06,800 --> 00:01:09,600
-More an advert is targeted,
+In fact, the more targeted an ad is,
 
 30
 00:01:09,600 --> 00:01:11,500
-more it usefull,
+the more efficient it becomes,
 
 31
 00:01:11,500 --> 00:01:14,000
-and them more it makes money.
+so the more money it makes.
 
 32
 00:01:14,000 --> 00:01:15,000
-At least, 
+Finally, 
 
 33
 00:01:15,000 --> 00:01:17,000
-the person who created the application
+the creator of the app
 
 34
 00:01:17,000 --> 00:01:21,000
-can resale the data collected by the trackers.
+can sell the data collected by the trackers.
 
 35
 00:01:21,000 --> 00:01:23,700
-And Camille does not like very much,
+But Camille does not like that very much,
 
 36
 00:01:23,700 --> 00:01:24,800
@@ -152,20 +152,20 @@ So now, Camille,
 
 39
 00:01:29,700 --> 00:01:32,000
-when she install a new application
+when she installs a new application
 
 40
 00:01:32,000 --> 00:01:35,300
-she go fist to the Exodus Privacy website.
+she goes first to the Exodus Privacy website.
 
 41
 00:01:35,300 --> 00:01:38,000
-This platform do analysis
+This platform analyzes
 
 42
 00:01:38,000 --> 00:01:40,000
-on the free Google Store apps
+the free applications available on Google Store
 
 43
 00:01:40,000 --> 00:01:44,300
-and check if there is trackers on it.
+and detects the presence or the lack of trackers on it.
