@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Exodus Privacy</title>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="shower/shower/themes/ribbon/styles/screen-16x10.css">
+	<style>
+		.cover-slide h2 {
+			margin:50px 0 0;
+			color:#FFF;
+			text-align:center;
+			font-size:70px;
+			}
+		.cover-slide p {
+			margin:40px 0 0;
+			text-align:center;
+			color:#FFF;
+			font-style:italic;
+			font-size:40px;
+			}
+		.cover-slide p a {
+			color:#FFF;
+			}
+		h3 {
+			font-weight: bold;
+		}
+		.muted {
+			color: rgb(85, 85, 85);
+			font-style: italic;
+		}
+		.large {
+			line-height: 1.5;
+			font-size: 50px;
+		}
+		.text-center {
+			text-align: center;
+		}
+		.medium {
+			line-height: 1.25;
+			font-size: 35px;
+		}
+		.superquote {
+			font-size: 50px
+		}
+		.mediumquote {
+			font-size: 35px
+		}
+	</style>
+</head>
+<body class="shower list">
+
+	<header class="caption">
+		<h1>Exodus Privacy</h1>
+	</header>
+	
+	<section class="slide cover-slide">
+		<figure>
+			<img class="cover" src="assets/animated_logo_exodus.gif" alt="">
+		</figure>
+		<h2 class="place bottom" style="padding-bottom:20px;">Exodus Privacy&nbsp;&nbsp;&nbsp;</h2>
+	</section>
+	<section class="slide">
+		<div class="place middle center" style="text-align: center; font-size:3em;">
+			Who we are
+		</div>
+	</section>
+	
+	<section class="slide">
+		<h2>Exodus Privacy</h2>
+		<p>
+		<ul>
+			<li>Group of French hacktivists</li>
+			<li>6 months old non-profit organization</li>
+			<li>Undefined number of members</li>
+			<li>Strict legal rules</li>
+			<li>2 collaborations: 
+				<ul>
+					<li>Yale Privacy Lab</li>
+					<li>F-Droid</li>
+				</ul>
+			<li>We do FLOSS</li>
+		</ul>
+		</p>
+		<div>
+			<img src="assets/qr-code.png" style="margin-right:60px" width="300px" class="place right">
+		</div>
+	</section>
+	
+	<section class="slide">
+		<div class="place middle center" style="text-align: center; font-size:3em;">
+			Our goal
+		</div>
+	</section>
+	
+	<section class="slide">
+		<blockquote class="place large">
+			Make people aware of permanent tracking on smartphones
+		</blockquote>
+	</section>
+	
+	<section class="slide">
+		<h2>How we do</h2>
+		<ul>
+			<li>Develop the <b>εxodus</b> privacy auditing platform</li>
+			<li>Identify trackers by code signatures</li>
+			<li>Statically analyze <code>APK</code> files</li>
+		</ul>
+		<p>
+			We develop a transparency tool allowing people to know what is embedded in applications.
+		</p>
+		<div class="place bottom center">
+			<img width="100px" src="assets/logo_purple_without_text_huge.png" alt="">
+		</div>
+	</section>	
+	
+	<section class="slide">
+		<img src="assets/fr.meteo.2.png" class="cover">
+	</section>
+	
+	<section class="slide">
+		<h2>What we call a tracker</h2>
+		<blockquote class="place mediumquote">
+			A tracker is a piece of software meant to collect data about you or your usages.
+		</blockquote>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div class="">
+			Like <i><b>Ogury</b></i>, <i><b>Google Analytics</b></i>, <i><b>Teemo</b></i>, and many other.
+		</div>
+	</section>
+	
+	<section class="slide">
+		<img src="assets/tracker.1.png" class="cover">
+	</section>
+	
+	<section class="slide">
+		<h2>How we detect them</h2>
+		<h3>Static analysis</h3>
+		<ul>
+			<li>List Java classes embedded in the APK</li>
+			<li>Find classes matching the tracker code signature</li>
+			<li class="muted">Dexdump, Androguard, Gplaycli</li>
+		</ul>
+	</section>	
+	
+	<section class="slide">
+		<h2>Static analysis</h2>
+		<div class="place center bottom">
+			<img src="assets/static_analysis.png" height="450px">
+		</div>
+	</section>
+	
+	<section class="slide">
+		<h2>Static analysis</h2>
+		<div class="place center bottom">
+			<img src="assets/static_analysis-plain.png" height="450px" class="">
+		</div>
+	</section>
+    <section class="slide">
+        <h2>Exodus Privacy Application</h2>
+        <ul>
+            <li> Show the trackers in apps in your smartphone </li>
+            <li> Lists permissions required by the apps in your smartphone </li>
+            <li> Available on F-Droid and Google Play!</li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2>Exodify: Exodus Privacy in your browser</h2>
+        <ul>
+            <li>Browser extension for Firefox and Chrome</li>
+            <li>Displays the number of trackers of each application</li>
+            <li>Quick link to submit the application for an analysis</li>
+        </ul>
+    </section>
+    <section class="slide">
+        <h2>Exodify: Exodus Privacy in your browser</h2>
+        <div class="place center bottom">
+            <img src="assets/img-banks.jpg" height="450px" class="">
+        </div>
+    </section>
+	
+	<section class="slide">
+		<div class="place middle center" style="text-align: center; font-size:3em;">
+			First results
+		</div>
+	</section>
+
+	
+	<section class="slide">
+		<h2>What we did during the last 6 months</h2>
+		<ul>
+			<li>We effectively exist since <b>11/24/2017</b> - <i>first public release</i></li>
+			<li>We have identified <b>135 trackers</b> and analyzed <b>+8000 applications</b></li>
+			<li>We helped developers and companies like <b>Qwant</b> to <b> decontaminate their applications</b></li>
+			<li>We provided lot of advices/<b>courses to developers</b> who want to respect privacy</li>
+			<li>We did <b>deep audits</b> of several applications like <b>Baby+</b></li>
+			<li>We provided <b>statistics</b> and datasets to journalists and labs</li>
+			<li>We opened a <b>REST API</b></li>
+		</ul>
+		<p class="note">
+			Everything is free and open 🎄 
+		</p>
+	</section>	
+	
+	<section class="slide">
+		<img src="assets/trackers.1.png" class="cover">
+	</section>
+	
+	<section class="slide">
+		<img src="assets/baby+.png" class="cover">
+	</section>
+	
+	<section class="slide">
+		<h2>We are in the press too</h2>
+		<ul>
+			<li><b>MotherBoard</b> - The Targets of Mobile Apps: Your Health, Your Ancestors, [...]</li>
+			<li><b>Numerama</b> - Lutter contre les mouchards des apps, une cause citoyenne : [...]</li>
+			<li><b>The Guardian</b> - Three quarters of Android apps track users with third party tools</li>
+			<li><b>BoingBoing</b> - Researchers craft Android app that reveals to find horrific [...]</li>
+			<li><b>Le Monde</b> - Des mouchards cachés dans vos applications pour smartphones</li>
+			<li><b>Next Inpact</b> - Rencontre avec Exodus Privacy, qui révèle les trackers [...]</li>
+			<li><b>The Intercept</b> - Staggering Variety of Clandestine Trackers Found in Popular [...]</li>
+			<li class="muted">+8000 articles in +20 languages during the last 6 months</li>
+		</ul>
+	</section>	
+
+	<section class="slide">
+		<h2>We are known by the CNIL</h2>
+		<p>On Feb. 14th 2018 we meet CNIL people in their office in Paris.</p>
+		<p>The CNIL will use εxodus for preliminary investigations.</p>
+		<p>Exchanges were very intersting in both sides and their interest is promising.</p>
+		<center><img src="assets/cnil-logo_rvb.jpg" width="400px"></center>
+	</section>
+
+	<section class="slide">
+		<h2>Even french TV knows about us</h2>
+		<p>We made, for France2, a TV report about Waze application and all the "<i>unknown leaks</i>" of GPS data.
+		<br/>The report was broacasted on Feb. 24th 2018</p>
+		<p class="note place bottom left" style="margin-left:25px;">The replay can be found on <a href="https://youtu.be/ZrRneLW-X8Y?t=2380">Youtube</a>.</p>
+		<img src="assets/tout_compte_fait.png" width="550px" class="place bottom right" alt="">
+	</section>
+
+	<section class="slide">
+		<div class="place middle center" style="text-align: center; font-size:3em;">
+			Our future
+		</div>
+	</section>
+	
+	<section class="slide">
+		<h2>What's next</h2>
+		<ul>
+			<li>Compare Google Play and <b>F-Droid</b> versions of a same application</li>
+			<li>Improve static analysis by integrating <b>LibScout</b></li>
+			<li><b>Federate actors</b> in the field of privacy protection</li>
+			<li>εxodus will be used by Yale during cybersecurity classes</li>
+			<li>Create videos and podcasts explaining tracking on mobile</li>
+			<li>Animate a Facebook page and a Youtube channel</li>
+		</ul>
+	</section>
+	
+	<section class="slide">
+		<h2>What we need</h2>
+		We are a non-profit organization animated my volunteers. To stay alive, we need:
+		<div class="place text-center">
+			<h2>Help!<br>Contributions & Money</h2>
+		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<div class="text-center">
+			<h2>
+				<a href="https://exodus-privacy.eu.org/#help">https://exodus-privacy.eu.org/#help</a>
+			</h2>
+		</div>
+	</section>
+
+
+
+
+
+
+	
+	<section class="slide">
+		<div class="place middle center" style="text-align: center; font-size:3em;">
+			Q/A
+		</div>
+	</section>
+
+	<div class="progress"></div>
+	<script src="shower/shower/shower.min.js"></script>
+</body>
+</html>
