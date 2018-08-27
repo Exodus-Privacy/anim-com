@@ -7,13 +7,16 @@ Elle a été créé en 2017, et la plateforme a été ouverte au public le 24/11
 Site internet : https://exodus-privacy.eu.org/
 
 Contact presse : press@exodus-privacy.eu.org
+Ajouter la clé GPG ?
 
 ### 2. Présentation
 
-Exodus privacy a développé plusieurs outils :
-- lister les outils
-
-Par ailleurs, l'association souhaite donner les moyens au grand public de prendre conscience de l'impact de la collecte de données et de l'importance d'un droit à l'intimité numérique. En cela, elle tend à rendre son travail le plus accessible possible, par le viais de ses rapports, d'une chaine Youtube ainsi que de conférences.
+Exodus Privacy est une association Loi 1901 dont le but est de sensibiliser à la question du pistage et de la collecte des données via les applications.
+ 
+Pour cela, l'association a développé plusieurs outils :
+* La plateforme εxodus analyse les applications de Google Play pour indiquer l'éventuelle présence de pisteurs (voir glossaire ci-dessous)
+* L'application εxodus analyse les applications présentes sur un téléphone Android pour indiquer la présence ou l'absence de pisteurs
+* Des supports de sensibilisation destinés au grand public, notamment des vidéos pédagogiques.
 
 ### 3. Média-Kit
 Le média-kit comprend :
@@ -23,14 +26,14 @@ Le média-kit comprend :
  - Une photo prise lors d'une conférence.
 
 ### 4. Historique
-Le 25 août 2017, U+039B, l'actuelle présidente fondatrice de l'association diffuse un message sur le réseau social Mastodon afin d'attirer l'attention sur la présence d'un pisteur de la firme Teemo, dans plusieurs applications Android et met au point une méthode primitive de détection de ce pisteur.
+Le 25 août 2017, U+039B, l'actuelle présidente fondatrice de l'association diffuse un message sur le réseau social Mastodon afin d'attirer l'attention sur la présence d'un pisteur de la firme Teemo dans plusieurs applications Android et met au point une méthode primitive de détection de ce pisteur.
 Peu à peu se forme une équipe de cinq personnes décidées à se réunir dans un projet qui deviendra Exodus Privacy. Cette association de fait s'est convertie en association loi 1901 le 10/10/2017.
 
 La plateforme référençant toutes les analyses faites par l'association a été ouverte au public le 24/11/2017. S'en suit une couverture médiatique dense sur le sujet des pisteurs dans les applications. Alerté par U+039B, le Yale Privacy Lab apporte son soutien au projet, entraînant la publication d'articles sur le sujet dans la presse anglophone.
 
-Le succès de la plateforme a conduit Exodus Privacy à être invitée par la CNIL, très intéressée par l'outil et qui prévoit d'en faire un usage interne (non destiné à des fins de contrôle).
+Le sérieux de la plateforme a conduit Exodus Privacy à être invitée par la CNIL, très intéressée par l'outil et qui prévoit d'en faire un usage interne (non destiné à des fins de contrôle). L'association a également été invitée par l'AFNIC pour présenter ses travaux. 
 
-Afin de permettre aux développeurs d'auditer leurs propres applications (car certaines dépendances embarquent des pisteurs), Exodus Privacy à mis au point un programme nommé exodus-standalone qui analyse un APK sans avoir à le télécharger depuis PlayStore de Google, le 19/12/2017.
+Afin de permettre aux développeurs d'auditer leurs propres applications (car certaines dépendances embarquent des pisteurs), Exodus Privacy à mis au point un programme nommé exodus-standalone qui analyse un APK (voir glossaire ci-dessous) sans avoir à le télécharger depuis PlayStore de Google, le 19/12/2017.
 
 Le 19/03/2018 Exodus Privacy a grandement simplifié le système de demande d'analyse : les utilisateurs peuvent en déclencher seul pour toute application non payante disponible sur le PlayStore de Google.
 
@@ -57,7 +60,10 @@ L'association a un partenariat avec F-Droid et Yale Privacy Lab.
 - Mail presse : press@exodus-privacy.eu.org
  - Twitter : [@ExodusPrivacy](https://twitter.com/@Exodusprivacy)
  - Mastodon : [@exodus@framapiaf.org](https://framapiaf.org/@exodus)
+ - Facebook : [Exodusprivacy](https://www.facebook.com/exodusprivacy)
  - Forum : https://forum.exodus-privacy.eu.org/
+ - Peertube : [Exodus](https://peertube.tamanoir.foucry.net/accounts/lovis_ix/videos)
+ - Youtube : [Exodus Privacy](https://www.youtube.com/channel/UC2bloZZpnRal5tMVuHk0EFQ)
 
 #### 6.3 Présence presse
 Mail presse : press@exodus-privacy.eu.org
@@ -76,7 +82,7 @@ Mail presse : press@exodus-privacy.eu.org
 
 ### 7. Autour d'Exodus Privacy
 Ces projets utilisent et mettent en forme les données et les outils d'Exodus Privacy :
-
+A REMPLIR
 
 ### 8. Glossaire
 Pisteur : morceau de logiciel qui, si activé, transmet des informations à un tiers sur l'utilisateur ou l'usage qu'il fait de l'application.
