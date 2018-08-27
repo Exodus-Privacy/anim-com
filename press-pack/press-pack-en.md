@@ -6,6 +6,7 @@ Exodus privacy is a non-profit organisation that develops a platoform that analy
 Website : https://exodus-privacy.eu.org/
 
 Press contact : press@exodus-privacy.eu.org
+GPG : E94A 0437 BE5F 4CDA 7A48  039D DD9E 2494 D3A4 07AC
 
 ### 2. Presentation
 ### 3. Media-Kit
