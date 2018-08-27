@@ -7,7 +7,7 @@ Elle a été créé en 2017, et la plateforme a été ouverte au public le 24/11
 Site internet : https://exodus-privacy.eu.org/
 
 Contact presse : press@exodus-privacy.eu.org
-Ajouter la clé GPG ?
+GPG : E94A 0437 BE5F 4CDA 7A48  039D DD9E 2494 D3A4 07AC
 
 ### 2. Présentation
 
@@ -20,9 +20,9 @@ Pour cela, l'association a développé plusieurs outils :
 
 ### 3. Média-Kit
 Le média-kit comprend :
- - Ce dossier de presse au format PDF.
- - Le logo de Exodus privacy.
- - Une photo tirée du reportage de France 2, figurant la présidente de l'association en plein travail.
+ - Ce dossier de presse au format PDF ;
+ - Le logo de Exodus privacy ;
+ - Une photo tirée du reportage de France 2, figurant la présidente de l'association en plein travail ;
  - Une photo prise lors d'une conférence.
 
 ### 4. Historique
@@ -82,7 +82,9 @@ Mail presse : press@exodus-privacy.eu.org
 
 ### 7. Autour d'Exodus Privacy
 Ces projets utilisent et mettent en forme les données et les outils d'Exodus Privacy :
-A REMPLIR
+
+* Exodify est un greffon pour les navigateurs Firefox et Chrome. Il affiche sur la page du Google Play Store le nombre de pisteurs trouvés par l'analyse statique d'ExodusPrivacy. SI l'application n'a pas encore été analysé, le greffon propose de lancer cette analyse ;
+* Yalp/Aurora sont des applications Android® qui permettent le téléchargement d'application du Google Play Store sans y avoir de compte. Les developpeurs ont intégrés la recheche du nombre de pisteurs et, comme Exodify, proposent l'analyse des applications non encore testées Il est à noter que Aurora est un projet issue de Yalp.
 
 ### 8. Glossaire
 Pisteur : morceau de logiciel qui, si activé, transmet des informations à un tiers sur l'utilisateur ou l'usage qu'il fait de l'application.
