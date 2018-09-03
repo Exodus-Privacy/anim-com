@@ -1,0 +1,209 @@
+1
+00:00:02,000 --> 00:00:06,500
+Précédemment, dans les aventures de Camille
+
+2
+00:00:06,500 --> 00:00:08,000
+Camile utilise au quotidien
+
+3
+00:00:08,000 --> 00:00:11,000
+des applications sur son téléphone
+
+4
+00:00:11,000 --> 00:00:14,200
+mais elle découvre l'existence des pisteurs
+
+5
+00:00:14,200 --> 00:00:15,800
+ces morceaux de logiciels
+
+6
+00:00:15,800 --> 00:00:19,000
+qui peuvent collecter des données sur elle.
+
+7
+00:00:19,000 --> 00:00:20,500
+Elle se rend compte
+
+8
+00:00:20,500 --> 00:00:23,100
+que ces données peuvent toucher des domaines
+très sensibles
+
+9
+00:00:23,100 --> 00:00:27,200
+comme sa maladie ou son orientation sexuelle.
+
+10
+00:00:27,200 --> 00:00:28,700
+Camille se demande alors
+
+11
+00:00:28,700 --> 00:00:32,000
+Comment des pisteurs se retrouvent dans des applications
+
+12
+00:00:32,000 --> 00:00:35,000
+Une vidéo d'Exodus Privacy
+
+13
+00:00:35,300 --> 00:00:37,000
+Pour répondre à cette question
+
+14
+00:00:37,000 --> 00:00:38,900
+Camille va devoir comprendre
+
+15
+00:00:38,900 --> 00:00:42,000
+comment se fabrique une application.
+
+16
+00:00:42,000 --> 00:00:45,000
+Une application, c'est un peu comme une voiture.
+
+17
+00:00:45,000 --> 00:00:47,000
+Elles ont toutes deux un but :
+
+18
+00:00:47,000 --> 00:00:49,500
+permettre à Camille de faire ses courses,
+
+19
+00:00:49,500 --> 00:00:51,000
+d'aller dans une salle de jeux
+
+20
+00:00:51,000 --> 00:00:53,000
+ou de poster un colis.
+
+21
+00:00:53,000 --> 00:00:56,300
+Eles sont toutes deux complexes à concevoir.
+
+22
+00:00:56,300 --> 00:00:57,800
+Beaucoup d'éléments
+
+23
+00:00:57,800 --> 00:01:02,000
+et de professions différentes participent à la création.
+
+24
+00:01:02,000 --> 00:01:04,500
+Pour la fabrication du moteur d'une voiture,
+
+25
+00:01:04,500 --> 00:01:07,800
+deux choix s'offrent aux ingénieur.e.s.
+
+26
+00:01:07,800 --> 00:01:09,700
+soit fabriquer le moteur
+
+27
+00:01:09,700 --> 00:01:12,500
+soit utiliser un moteur créé par d'autres.
+
+28
+00:01:13,000 --> 00:01:15,000
+Pour une application, c'est pareil !
+
+29
+00:01:15,800 --> 00:01:17,650
+Les développeurs et développeuses
+
+30
+00:01:17,650 --> 00:01:21,600
+c'est-à-dire les personnes qui écrivent le programme informatique
+
+31
+00:01:21,600 --> 00:01:24,800
+peuvent choisir d'utiliser des morceaux de code tout fait 
+
+32
+00:01:24,800 --> 00:01:27,000
+dans des bibliothèques de code
+
+33
+00:01:27,000 --> 00:01:29,800
+ou bien tout écrire de A à Z.
+
+34
+00:01:30,200 --> 00:01:35,000
+Mais alors,à quel moment les pisteurs se retrouvent-ils dans les applications ?
+
+35
+00:01:36,000 --> 00:01:38,700
+Un pisteur, c'est un bout de code.
+
+36
+00:01:38,700 --> 00:01:41,000
+Donc il faut que quelqu'un l'écrive à un moment
+
+37
+00:01:41,000 --> 00:01:44,000
+dans le programme de l'application.
+
+38
+00:01:44,000 --> 00:01:47,800
+Cela peut être une décision des personnes à l'origine de l'application,
+
+39
+00:01:47,800 --> 00:01:51,700
+par exemple si leurs revenus viennent de la publicité.
+
+40
+00:01:51,700 --> 00:01:57,300
+Mais il arrive également que ces personnes mettent des pisteurs
+sans s'en rendre compte.
+
+41
+00:01:57,300 --> 00:02:01,800
+Par exemple, si une développeuse utilise un bout de code fait par d'autres
+
+42
+00:02:01,800 --> 00:02:05,800
+qui comprends un pisteur de géolocalisation sans qu'elle le sache,
+
+43
+00:02:05,800 --> 00:02:09,900
+alors l'application finale comprendra ce pisteur.
+
+44
+00:02:10,600 --> 00:02:13,300
+Et si Camille l'installe sur son téléphone,
+
+45
+00:02:13,300 --> 00:02:15,900
+elle sera suivi à la trace par ce biais
+
+46
+00:02:16,800 --> 00:02:20,140
+Comme on trouve le même moteur dans différentes voitures,
+
+47
+00:02:20,140 --> 00:02:23,900
+On trouve les mêmes pisteurs dans différentes applications.
+
+48
+00:02:25,400 --> 00:02:28,800
+Pour découvrir les autres aventures de Camille,
+
+49
+00:02:29,000 --> 00:02:31,150
+vous pouvez aller voir les deux premiers épisodes
+
+50
+00:02:31,150 --> 00:02:34,300
+et vous abonner à la chaîne d'Exodus Privacy
+
+51
+00:02:34,300 --> 00:02:36,700
+sur Youtube ou Peertube
+
+52
+00:02:36,700 --> 00:02:41,200
+Suivez-nous également sur Mastodon, Twitter ou Facebook.
