@@ -1,0 +1,171 @@
+1
+00:00:07,000 --> 00:00:08,000
+Ogni giorno,
+
+2
+00:00:08,000 --> 00:00:09,900
+Camilla usa delle app
+
+3
+00:00:09,900 --> 00:00:11,400
+sullo smartphone
+
+4
+00:00:11,400 --> 00:00:13,900
+che sono utile.
+
+5
+00:00:13,900 --> 00:00:15,500
+Le danno per esempio
+
+6
+00:00:15,500 --> 00:00:17,000
+le previsioni del tempo,
+
+7
+00:00:17,000 --> 00:00:18,900
+il saldo del suo conto bancario
+
+8
+00:00:18,900 --> 00:00:21,500
+oppure le permettono di monitorare il livello di zucchero nel sangue
+
+9
+00:00:21,500 --> 00:00:24,500
+visto che Camilla è diabetica.
+
+10
+00:00:24,500 --> 00:00:27,500
+Ma quello che Camilla non sa,
+
+11
+00:00:27,500 --> 00:00:29,900
+è che in ognuna di queste app,
+
+12
+00:00:29,900 --> 00:00:31,000
+ci sono tracker.
+
+13
+00:00:31,000 --> 00:00:33,500
+questi tracker sono stati aggiunti
+
+14
+00:00:33,400 --> 00:00:35,900
+al momento della creazione dell'app
+
+15
+00:00:35,900 --> 00:00:37,400
+con un unico obiettivo:
+
+16
+00:00:37,400 --> 00:00:40,000
+capacità di raccogliere dati
+
+17
+00:00:40,000 --> 00:00:41,000
+Per esempio,
+
+18
+00:00:41,000 --> 00:00:43,400
+dove vive Camilla,
+
+19
+00:00:43,400 --> 00:00:45,000
+dove lavora,
+
+20
+00:00:45,000 --> 00:00:47,000
+o la farmacia
+
+21
+00:00:47,000 --> 00:00:49,500
+dove rinnova le sue cure mediche.
+
+22
+00:00:49,500 --> 00:00:52,000
+Questi tracker consentono alla persona
+
+23
+00:00:52,000 --> 00:00:54,500
+che ha creato l'app diverse cose:
+
+24
+00:00:54,500 --> 00:00:58,000
+prima di tutto, per sapere chi usa l'app,
+
+25
+00:00:58,000 --> 00:01:01,000
+per conoscere il pubblico,
+
+26
+00:01:01,000 --> 00:01:02,500
+ma anche,
+
+27
+00:01:02,500 --> 00:01:05,000
+se l'app offre pubblicità,
+
+28
+00:01:05,000 --> 00:01:06,800
+indirizzarla al massimo.
+
+29
+00:01:06,800 --> 00:01:09,600
+Infatti, più la pubblicità è mirata,
+
+30
+00:01:09,600 --> 00:01:11,500
+più è efficiente,
+
+31
+00:01:11,500 --> 00:01:14,000
+quindi più porta soldi.
+
+32
+00:01:14,000 --> 00:01:15,000
+E infine, 
+
+33
+00:01:15,000 --> 00:01:17,000
+la persona che ha creato l'app
+
+34
+00:01:17,000 --> 00:01:21,000
+può rivendere i dati raccolti dai tracker.
+
+35
+00:01:21,000 --> 00:01:23,700
+Ma questo non piace molto a Camille,
+
+36
+00:01:23,700 --> 00:01:24,800
+tutti questi tracker
+
+37
+00:01:24,800 --> 00:01:28,200
+che stanno raccogliendo cose su di lei a sua insaputa.
+
+38
+00:01:28,200 --> 00:01:29,700
+così ora,
+
+39
+00:01:29,700 --> 00:01:32,000
+quando Camilla installa un'app,
+
+40
+00:01:32,000 --> 00:01:35,300
+va prima su Exodus Privacy.
+
+41
+00:01:35,300 --> 00:01:38,000
+Questa piattaforma analizza
+
+42
+00:01:38,000 --> 00:01:40,000
+le app gratuite dallo store di Google
+
+43
+00:01:40,000 --> 00:01:44,300
+e rileva presenza o assenza dei tracker.

@@ -1,0 +1,209 @@
+1
+00:00:02,000 --> 00:00:06,500
+In precedenza, nelle avventure di Camilla,
+
+2
+00:00:06,500 --> 00:00:08,000
+Camilla usa giornalmente
+
+3
+00:00:08,000 --> 00:00:11,000
+delle app sullo smartpĥone
+
+4
+00:00:11,000 --> 00:00:14,200
+ma scopre l'esistenza di tracker,
+
+5
+00:00:14,200 --> 00:00:15,800
+questi pezzi di software
+
+6
+00:00:15,800 --> 00:00:19,000
+in grado di raccogliere dati su di lei.
+
+7
+00:00:19,000 --> 00:00:20,500
+Si rende conto 
+
+8
+00:00:20,500 --> 00:00:23,100
+che i dati possono influenzare i domini
+molto sensibile
+
+9
+00:00:23,100 --> 00:00:27,200
+come la sua malattia o la sua sponda.
+
+10
+00:00:27,200 --> 00:00:28,700
+Camille si chiede allora
+
+11
+00:00:28,700 --> 00:00:32,000
+come i tracker si trovano nelle app.
+
+12
+00:00:32,000 --> 00:00:35,000
+Un video di Exodus Privacy
+
+13
+00:00:35,300 --> 00:00:37,000
+Per rispondere a questa domanda
+
+14
+00:00:37,000 --> 00:00:38,900
+Camilla dovrà capire
+
+15
+00:00:38,900 --> 00:00:42,000
+come viene fatta un'app.
+
+16
+00:00:42,000 --> 00:00:45,000
+Un'app, è un po' come una macchina.
+
+17
+00:00:45,000 --> 00:00:47,000
+Entrambe hanno uno scopo:
+
+18
+00:00:47,000 --> 00:00:49,500
+permettere a Camille di fare la spesa,
+
+19
+00:00:49,500 --> 00:00:51,000
+andare in una sala giochi,
+
+20
+00:00:51,000 --> 00:00:53,000
+o spedire un pacco.
+
+21
+00:00:53,000 --> 00:00:56,300
+Sono entrambe complesse da progettare.
+
+22
+00:00:56,300 --> 00:00:57,800
+Molti elementi
+
+23
+00:00:57,800 --> 00:01:02,000
+e professioni differenti partecipano alla creazione.
+
+24
+00:01:02,000 --> 00:01:04,500
+Per la fabbricazione del motore di un'auto,
+
+25
+00:01:04,500 --> 00:01:07,800
+due scelte sono offerte all'ingegnere:
+
+26
+00:01:07,800 --> 00:01:09,700
+o produrre il motore,
+
+27
+00:01:09,700 --> 00:01:12,500
+o usare un motore creato da altri.
+
+28
+00:01:13,000 --> 00:01:15,000
+Per un'applicazione, è la stessa cosa!
+
+29
+00:01:15,800 --> 00:01:17,650
+Gli sviluppatori,
+
+30
+00:01:17,650 --> 00:01:21,600
+cioè le persone che scrivono il programma per computer,
+
+31
+00:01:21,600 --> 00:01:24,800
+possono scegliere di usare pezzi di codice già pronto
+
+32
+00:01:24,800 --> 00:01:27,000
+nelle librerie di codici
+
+33
+00:01:27,000 --> 00:01:29,800
+o scrivere tutto dalla A alla Z.
+
+34
+00:01:30,200 --> 00:01:35,000
+Ma poi, quando i tracker si trovano nelle app?
+
+35
+00:01:36,000 --> 00:01:38,700
+Un tracker è un pezzo di codice.
+
+36
+00:01:38,700 --> 00:01:41,000
+Quindi qualcuno deve scriverlo ad un certo punto
+
+37
+00:01:41,000 --> 00:01:44,000
+nel programma dell'app.
+
+38
+00:01:44,000 --> 00:01:47,800
+Può essere una decisione delle persone che ha creato l'app,
+
+39
+00:01:47,800 --> 00:01:51,700
+per esempio se i loro redditi vengono dalla pubblicità.
+
+40
+00:01:51,700 --> 00:01:57,300
+Ma succede anche che queste persone mettano i tracker
+senza rendersene conto.
+
+41
+00:01:57,300 --> 00:02:01,800
+Ad esempio, se uno sviluppatore utilizza un pezzo di codice creato da altri
+
+42
+00:02:01,800 --> 00:02:05,800
+che include un localizzatore senza che lo sappia
+
+43
+00:02:05,800 --> 00:02:09,900
+quindi l'applicazione finale includerà questo tracker.
+
+44
+00:02:10,600 --> 00:02:13,300
+E se Camilla lo installa sullo smartphone,
+
+45
+00:02:13,300 --> 00:02:15,900
+sarà tracciato attraverso questo tracker.
+
+46
+00:02:16,800 --> 00:02:20,140
+Poiché troviamo lo stesso motore in diverse auto,
+
+47
+00:02:20,140 --> 00:02:23,900
+gli stessi tracker si trovano in diverse app.
+
+48
+00:02:25,400 --> 00:02:28,800
+Per scoprire le altre avventure di Camilla,
+
+49
+00:02:29,000 --> 00:02:31,150
+puoi guardare i primi due episodi
+
+50
+00:02:31,150 --> 00:02:34,300
+e abbonarti al canale di Exodus Privacy
+
+51
+00:02:34,300 --> 00:02:36,700
+su Youtube o Peertube
+
+52
+00:02:36,700 --> 00:02:41,200
+puoi anche seguirci su Mastodon, Twitter o Facebook.
