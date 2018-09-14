@@ -81,7 +81,7 @@ ou de poster un colis.
 
 21
 00:00:53,000 --> 00:00:56,300
-Eles sont toutes deux complexes à concevoir.
+Elles sont toutes deux complexes à concevoir.
 
 22
 00:00:56,300 --> 00:00:57,800
