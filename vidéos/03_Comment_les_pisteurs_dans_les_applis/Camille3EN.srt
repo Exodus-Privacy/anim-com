@@ -1,0 +1,208 @@
+1
+00:00:02,000 --> 00:00:06,500
+Previously, in Camille's adventures
+
+2
+00:00:06,500 --> 00:00:08,000
+Camile use every day
+
+3
+00:00:08,000 --> 00:00:11,000
+some applications on her smartphone
+
+4
+00:00:11,000 --> 00:00:14,200
+but she discovered the existance of trackers
+
+5
+00:00:14,200 --> 00:00:15,800
+those little piece of code
+
+6
+00:00:15,800 --> 00:00:19,000
+who collect informations about her.
+
+7
+00:00:19,000 --> 00:00:20,500
+She realizes 
+
+8
+00:00:20,500 --> 00:00:23,100
+that this data can affect 
+very sensitive domains
+
+9
+00:00:23,100 --> 00:00:27,200
+like her illness or her sexual orientation.
+
+10
+00:00:27,200 --> 00:00:28,700
+Camille ask her sefl
+
+11
+00:00:28,700 --> 00:00:32,000
+How those trackers came into the applicationss?
+
+12
+00:00:32,000 --> 00:00:35,000
+An Exodus Privacy video
+
+13
+00:00:35,300 --> 00:00:37,000
+In order to answer this question
+
+14
+00:00:37,000 --> 00:00:38,900
+Camille must understant 
+
+15
+00:00:38,900 --> 00:00:42,000
+how applications are made
+
+16
+00:00:42,000 --> 00:00:45,000
+An application, it's a little bit like a car.
+
+17
+00:00:45,000 --> 00:00:47,000
+They all have a goal:
+
+18
+00:00:47,000 --> 00:00:49,500
+helping Cammille to do her shopping,
+
+19
+00:00:49,500 --> 00:00:51,000
+going gambling,
+
+20
+00:00:51,000 --> 00:00:53,000
+or post a package.
+
+21
+00:00:53,000 --> 00:00:56,300
+They are both complex to build.
+
+22
+00:00:56,300 --> 00:00:57,800
+a lot of stuff
+
+23
+00:00:57,800 --> 00:01:02,000
+and many differents professions participate to the creation. 
+
+24
+00:01:02,000 --> 00:01:04,500
+In order to build the engine,
+
+25
+00:01:04,500 --> 00:01:07,800
+there is two choices for the engineers.
+
+26
+00:01:07,800 --> 00:01:09,700
+create the engine from scratch
+
+27
+00:01:09,700 --> 00:01:12,500
+or use an already created engine.
+
+28
+00:01:13,000 --> 00:01:15,000
+It's the same for an application!
+
+29
+00:01:15,800 --> 00:01:17,650
+Developers,
+
+30
+00:01:17,650 --> 00:01:21,600
+the person who write code in computer language
+
+31
+00:01:21,600 --> 00:01:24,800
+could choose to use an alerady done piece of code
+
+32
+00:01:24,800 --> 00:01:27,000
+in library code
+
+33
+00:01:27,000 --> 00:01:29,800
+or write all the applicatiion code, from scratch.
+
+34
+00:01:30,200 --> 00:01:35,000
+Ok. So when did the trackers come into the applications?
+
+35
+00:01:36,000 --> 00:01:38,700
+A traker, it's a piece of code.
+
+36
+00:01:38,700 --> 00:01:41,000
+So someone has to write at a time
+
+37
+00:01:41,000 --> 00:01:44,000
+in the application program
+
+38
+00:01:44,000 --> 00:01:47,800
+It could be come form the persons who wrote the applications
+
+39
+00:01:47,800 --> 00:01:51,700
+for example to have revenues for adverts.
+
+40
+00:01:51,700 --> 00:01:57,300
+But some time those persons does not even know they add tracker.
+
+41
+00:01:57,300 --> 00:02:01,800
+For example, if a developer use a piece of code wrote by others
+
+42
+00:02:01,800 --> 00:02:05,800
+which use geoloc whitout her knowledge,
+
+43
+00:02:05,800 --> 00:02:09,900
+and the final application will have a tracker.
+
+44
+00:02:10,600 --> 00:02:13,300
+And if Camille install it on her smartphone,
+
+45
+00:02:13,300 --> 00:02:15,900
+she will be tracked through this
+
+46
+00:02:16,800 --> 00:02:20,140
+As we can find the same engine in differents cars,
+
+47
+00:02:20,140 --> 00:02:23,900
+We can find same trackers in many applications.
+
+48
+00:02:25,400 --> 00:02:28,800
+To keep an eye on Camille adventure,
+
+49
+00:02:29,000 --> 00:02:31,150
+you can watch the two first episode
+
+50
+00:02:31,150 --> 00:02:34,300
+and subscribe to the Exodus Privacy YouTube Channel
+
+51
+00:02:34,300 --> 00:02:36,700
+or find them on Peertube
+
+52
+00:02:36,700 --> 00:02:41,200
+Follow us on mastodon, twitter of Facebook.
