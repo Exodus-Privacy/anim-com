@@ -1,0 +1,228 @@
+1
+00:00:00,000 --> 00:00:03,000
+De door trackers verzamelde gegevens,
+
+2
+00:00:04,000 --> 00:00:06,000
+een video van Exodus Privacy
+
+3
+00:00:08,000 --> 00:00:10,000
+Camille heeft onlangs vernomen
+
+4
+00:00:10,000 --> 00:00:14,000
+dat haar mobiele apps
+
+5
+00:00:14,000 --> 00:00:16,000
+soms trackers bevatten,
+
+6
+00:00:16,000 --> 00:00:18,000
+stukjes software
+
+7
+00:00:18,000 --> 00:00:21,000
+die gegevens verzamelen.
+
+8
+00:00:21,000 --> 00:00:24,000
+Enigszins ontevreden wil ze er graag meer over weten
+
+9
+00:00:24,000 --> 00:00:27,000
+zoals over welke gegevens het eigelijk gaat.
+
+10
+00:00:28,000 --> 00:00:30,000
+Ze krijgt dan te begrijpen
+
+11
+00:00:30,000 --> 00:00:33,000
+dat er twee soorten gegevens zijn.
+
+12
+00:00:33,000 --> 00:00:36,000
+Persoonsgegevens en gebruiksgegevens.
+
+13
+00:00:37,000 --> 00:00:40,000
+Wat persoonlijksgegevens betreft
+
+14
+00:00:40,000 --> 00:00:46,000
+kunnen trackers heel wat weten over Camille.
+
+15
+00:00:46,000 --> 00:00:48,000
+Bijvoorbeeld dat ze elke maand
+
+16
+00:00:48,000 --> 00:00:50,000
+naar dezelfde apotheek gaat
+
+17
+00:00:50,000 --> 00:00:53,000
+omdat lokalisatie trackers
+
+18
+00:00:53,000 --> 00:00:54,000
+sensoren van haar telefoon gebruiken
+
+19
+00:00:54,000 --> 00:00:58,000
+zoals de GPS-chip of de omliggende Wifi-netwerken
+
+20
+00:00:58,000 --> 00:01:02,000
+om te vast te stellen waar de telefoon van Camille zich bevindt.
+
+21
+00:01:02,000 --> 00:01:05,000
+Maar dat is niet het enige.
+
+22
+00:01:05,000 --> 00:01:07,000
+Het is ook mogelijk om te weten dat ze maat 38 is,
+
+23
+00:01:07,000 --> 00:01:10,000
+dat ze diabetisch en homosexueel is,
+
+24
+00:01:10,000 --> 00:01:13,000
+en dat allemaal door de websites die ze heeft bezocht
+
+25
+00:01:13,000 --> 00:01:16,000
+of de lijst van apps op haar telefoon.
+
+26
+00:01:16,000 --> 00:01:20,000
+Dat noemen we profilering
+
+27
+00:01:20,000 --> 00:01:22,000
+waardoor er een virtueel profiel kan worden aangemaakt.
+
+28
+00:01:22,000 --> 00:01:27,000
+Hoe precieser dit profiel, hoe meer geld het waard is op de markt van persoonlijksgegevens.
+
+29
+00:01:27,000 --> 00:01:30,000
+Okee, maar Camille dacht dat ze zich beschermde
+
+30
+00:01:30,000 --> 00:01:34,000
+door op Internet pseudo’s te gebruiken.
+
+31
+00:01:34,000 --> 00:01:38,000
+Ja, maar er bestaan ook identificatietrackers
+
+32
+00:01:38,000 --> 00:01:42,000
+die een verband kunnen leggen tussen wat Camille op Internet doet
+
+33
+00:01:42,000 --> 00:01:45,000
+en haar offlineactiviteiten.
+
+34
+00:01:45,000 --> 00:01:51,000
+Tenslotte zijn er reclame trackers die gebruikt worden voor gerichte reclame.
+
+35
+00:01:51,000 --> 00:01:54,000
+Vandaar dat Camille in sommige apps
+
+36
+00:01:54,000 --> 00:01:59,000
+reclame ziet die erg dicht bij haar interesse liggen.
+
+37
+00:02:00,000 --> 00:02:03,000
+Trackers verzamelen niet alleen persoonsgegevens
+
+38
+00:02:04,000 --> 00:02:06,000
+maar ook gebruiksgegevens.
+
+39
+00:02:07,000 --> 00:02:09,000
+Dit zijn anonieme statistieken
+
+40
+00:02:09,000 --> 00:02:12,000
+zoals de laadtijd van een app
+
+41
+00:02:12,000 --> 00:02:15,000
+of het aantaal keer dat een app geopend wordt
+
+42
+00:02:15,000 --> 00:02:19,000
+zonder dat deze informatie verbonden wordt aan een echte of virtuele persoon.
+
+43
+00:02:19,000 --> 00:02:23,000
+Deze gegevens helpen de persoon die de app ontwikkelt
+
+44
+00:02:23,000 --> 00:02:25,000
+om meer te weten over de mensen die de app gebruiken,
+
+45
+00:02:25,000 --> 00:02:28,000
+een soort van kijkcijfers.
+
+46
+00:02:28,000 --> 00:02:33,000
+Ze zijn ook nuttig om te weten wanneer iets fout gaat
+
+47
+00:02:33,000 --> 00:02:37,000
+bijvoorbeeld om te weten op welk telefoonmerk
+
+48
+00:02:37,000 --> 00:02:40,000
+de app niet zo goed werkt.
+
+49
+00:02:40,000 --> 00:02:43,000
+Camille heeft dus begrepen dat er twee verschillende gegevens zijn,
+
+50
+00:02:43,000 --> 00:02:47,000
+persoonsgegevens en gebruiksgegevens.
+
+51
+00:02:47,000 --> 00:02:50,000
+Ze had zich bijvoorbeeld niet voorgestelt dat men
+
+52
+00:02:51,000 --> 00:02:58,000
+hele gevoelige gegevens zoals haar ziekte en haar sexualiteit kon weten.
+
+53
+00:02:58,000 --> 00:03:03,000
+Als u deze video leuk vond,
+
+54
+00:03:03,000 --> 00:03:06,000
+klik dan op like
+
+55
+00:03:06,000 --> 00:03:10,000
+en als u meer van Camille en andere videos wilt zien
+
+56
+00:03:10,000 --> 00:03:13,000
+aboneer u dan op Exodus Privacy
+
+57
+00:03:13,000 --> 00:03:16,000
+of kijk op Peertube via de onderstaande link.
+
