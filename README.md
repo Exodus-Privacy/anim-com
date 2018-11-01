@@ -1,6 +1,6 @@
 # anim-com
 
-:GB:
+🇬🇧
 This repository is used for the external communication from Exodus Privacy.
 
 You will find the videos and more important, the subtitle files (in vidéos/xxx folder).
@@ -13,7 +13,7 @@ Fork this repo and just do it.
 
 The Exodus Privacy Team
 
-:FR:
+🇫🇷
 Ce dépôt est utiliser pour la communication externe de Exodus Privacy.
 
 Vous y trouverez les vidéos et, plus important, les fichiers de sous-titres (dans les dossiers vdiéos/xxxx).
