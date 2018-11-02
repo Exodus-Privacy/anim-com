@@ -1,32 +1,28 @@
 # Exodus Privacy
 ## Dossier de presse
 ### 1. TL; DR
-Exodus privacy est une association qui développe une plateforme qui permet d'analyser les applications Android© afin d'en extraire une liste de pisteurs.
-Elle a été créé en 2017, et la plateforme a été ouverte au public le 24/11/2017.
+L'association Exodus Privacy a développé des outils permettant de sensibiliser le grand public à la collecte de données par le biais des applications sur les téléphones portables : une plateforme d'analyse des applications, une application et des supports pédagogiques. 
+Elle a été créée en 2017, et la plateforme a été ouverte au public le 24/11/2017.
 
 Site internet : https://exodus-privacy.eu.org/
 
 Contact presse : press@exodus-privacy.eu.org
 GPG : E94A 0437 BE5F 4CDA 7A48  039D DD9E 2494 D3A4 07AC
 
-### 2. Présentation
+### 2. Les outils développés par Exodus Privacy
 
-Exodus Privacy est une association Loi 1901 dont le but est de sensibiliser à la question du pistage et de la collecte des données via les applications.
- 
-Pour cela, l'association a développé plusieurs outils :
 * La plateforme εxodus analyse les applications de Google Play pour indiquer l'éventuelle présence de pisteurs (voir glossaire ci-dessous)
 * L'application εxodus analyse les applications présentes sur un téléphone Android pour indiquer la présence ou l'absence de pisteurs
-* Des supports de sensibilisation destinés au grand public, notamment des vidéos pédagogiques.
+* Des supports de sensibilisation destinés au grand public ont été créés, notamment des vidéos pédagogiques.
 
 ### 3. Média-Kit
 Le média-kit comprend :
  - Ce dossier de presse au format PDF ;
  - Le logo de Exodus privacy ;
- - Une photo tirée du reportage de France 2, figurant la présidente de l'association en plein travail ;
- - Une photo prise lors d'une conférence.
+ - Des visuels d'illustration.
 
 ### 4. Historique
-Le 25 août 2017, U+039B, l'actuelle présidente fondatrice de l'association diffuse un message sur le réseau social Mastodon afin d'attirer l'attention sur la présence d'un pisteur de la firme Teemo dans plusieurs applications Android et met au point une méthode primitive de détection de ce pisteur.
+Le 25 août 2017, U+039B, la fondatrice et ancienne présidente de l'association diffuse un message sur le réseau social Mastodon afin d'attirer l'attention sur la présence d'un pisteur de la firme Teemo dans plusieurs applications Android et met au point une méthode primitive de détection de ce pisteur.
 Peu à peu se forme une équipe de cinq personnes décidées à se réunir dans un projet qui deviendra Exodus Privacy. Cette association de fait s'est convertie en association loi 1901 le 10/10/2017.
 
 La plateforme référençant toutes les analyses faites par l'association a été ouverte au public le 24/11/2017. S'en suit une couverture médiatique dense sur le sujet des pisteurs dans les applications. Alerté par U+039B, le Yale Privacy Lab apporte son soutien au projet, entraînant la publication d'articles sur le sujet dans la presse anglophone.
@@ -42,7 +38,7 @@ Exodus Privacy est une association loi 1901. Elle est dirigée par un bureau com
 
 Son organisation est répartie dans trois groupes de travail : Animation & communication, Stratégie & partenariats et Technique & développement.
 
-L'association fonctionne grâce à des donations sans contrepartie. Les donateurs sont des personnes privées et quelques personnes morales dont Qwant, La Quadrature du Net, Gandi ainsi que Codeurs en Liberté.
+L'association fonctionne grâce à des donations sans contrepartie. Les donateurs sont des personnes privées et quelques personnes morales dont Qwant, La Quadrature du Net, Gandi, Octopuce ainsi que Codeurs en Liberté.
 
 L'association a un partenariat avec F-Droid et Yale Privacy Lab.
 
@@ -83,7 +79,7 @@ Mail presse : press@exodus-privacy.eu.org
 ### 7. Autour d'Exodus Privacy
 Ces projets utilisent et mettent en forme les données et les outils d'Exodus Privacy :
 
-* Exodify est un greffon pour les navigateurs Firefox et Chrome. Il affiche sur la page du Google Play Store le nombre de pisteurs trouvés par l'analyse statique d'ExodusPrivacy. SI l'application n'a pas encore été analysé, le greffon propose de lancer cette analyse ;
+* Exodify est un greffon pour les navigateurs Firefox et Chrome. Il affiche sur la page du Google Play Store le nombre de pisteurs trouvés par l'analyse statique d'ExodusPrivacy. SI l'application n'a pas encore été analysée, le greffon propose de lancer cette analyse ;
 * Yalp/Aurora sont des applications Android® qui permettent le téléchargement d'application du Google Play Store sans y avoir de compte. Les developpeurs ont intégrés la recheche du nombre de pisteurs et, comme Exodify, proposent l'analyse des applications non encore testées Il est à noter que Aurora est un projet issue de Yalp.
 
 ### 8. Glossaire
