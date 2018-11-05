@@ -1,0 +1,276 @@
+3
+00:00:00,000 --> 00:00:03,000
+Les données collectées par les pisteurs,
+The data collected by the trackers
+2
+00:00:04,000 --> 00:00:06,000
+une vidéo d'Exodus Privacy
+ a video by Exodus Privacy
+
+3
+00:00:08,000 --> 00:00:10,000
+Camille a récemment appris
+Camille recently learned 
+4
+00:00:10,000 --> 00:00:14,000
+que dans les applications qu’elle utilise sur son téléphone,
+That the applications she is using with  her smartphone
+5
+00:00:14,000 --> 00:00:16,000
+ il peut y avoir des pisteurs,
+ can have trackers,
+
+6
+00:00:16,000 --> 00:00:18,000
+ces morceaux de logiciels 
+these piece of software
+7
+00:00:18,000 --> 00:00:21,000
+chargés de collecter des données.
+used to collect datas.
+
+8
+00:00:21,000 --> 00:00:24,000
+Quelque peu contrariée, elle aimerait en savoir plus 
+A little bit upset, she would like to kown more
+
+9
+00:00:24,000 --> 00:00:27,000
+et notamment quel type de données sont concernées.
+and specially which kind of datas are concerned.
+
+10
+00:00:28,000 --> 00:00:30,000
+Ce qu'elle va comprendre alors,
+She learn 
+
+11
+00:00:30,000 --> 00:00:33,000
+C'est qu'il y en a deux sortes.
+that there is two kind of datas:
+
+12
+00:00:33,000 --> 00:00:36,000
+Les données personnelles et les données d'usage.
+Personal datas and unique usage datas.
+
+13
+00:00:37,000 --> 00:00:40,000
+Concernant les premières, les données personnelles,
+About the first kind, personnal datas,
+
+14
+00:00:40,000 --> 00:00:46,000
+Les pisteurs permettent de savoirplein de choses sur Camille.
+the tracker can know a lot of things about Camille.
+
+15
+00:00:46,000 --> 00:00:48,000
+Par exemple qu'elle va tous les mois
+For example, that ? she goes every month
+
+16
+00:00:48,000 --> 00:00:50,000
+à la même pharmacie.
+at the same pharmacy
+
+17
+00:00:50,000 --> 00:00:53,000
+puisque les pisteurs de localisation
+cause the localisation trackers
+
+18
+00:00:53,000 --> 00:00:54,000
+utilisent les capteurs du téléphone
+are using the smartphone sensors
+
+19
+00:00:54,000 --> 00:00:58,000
+comme la puce GPS ou les réseaux Wifi environnants
+like the GPS ship or the WiFi networks around
+
+20
+00:00:58,000 --> 00:01:02,000
+pour établir où est le téléphone de Camille.
+in order to know where is the Camille's smartphone.
+
+21
+00:01:02,000 --> 00:01:05,000
+Mais ce n'est pas tout.
+But that's not all
+
+22
+00:01:05,000 --> 00:01:07,000
+Il est aussi possible de savoir qu'elle fait du 38,
+it's also possible to know her shoe size is 5
+
+23
+00:01:07,000 --> 00:01:10,000
+Qu'elle est diabétique et homosexuelle
+she has diabets and she's lesbian
+
+24
+00:01:10,000 --> 00:01:13,000
+Grâce à l'historique des sites consultés
+With the history of the visited websites
+
+25
+00:01:13,000 --> 00:01:16,000
+ou la liste des applications de son téléphone.
+or even the list of the application installed on her smartphone
+
+26
+00:01:16,000 --> 00:01:20,000
+C'est ce qu'on appelle le profilage 
+That's what we call the profiling
+
+27
+00:01:20,000 --> 00:01:22,000
+qui permet d'établir un profil virtuel.
+which allow to create a virtual profile.
+
+28
+00:01:22,000 --> 00:01:27,000
+Plus il est précis, plus il vaut cher sur le marché des données personnelles.
+More it's complete, more it valued on the personnal data market.
+
+29
+00:01:27,000 --> 00:01:30,000
+Oui, mais Camille, elle imaginait se protéger
+Ok, but Camille protected hereself
+
+30
+00:01:30,000 --> 00:01:34,000
+en utilisant des pseudonymes sur Internet.
+by using nicknames on the Internet.
+
+31
+00:01:34,000 --> 00:01:38,000
+Mais c'est  sans compter sur les pisteurs d'identification
+But there is also the identification trackers
+
+32
+00:01:38,000 --> 00:01:42,000
+qui permettent de faire le lien entre les activités de Camille sur le net
+used to to link the Camille's activities on Internet,
+
+33
+00:01:42,000 --> 00:01:45,000
+et les activités non connectées.
+and it's not connected activities.
+
+34
+00:01:45,000 --> 00:01:51,000
+Et enfin, les pisteurs publicitaires permettent de faire de la publicité ciblée.
+At least, the advertisements trackers are used to make targeted adverts. 
+35
+00:01:51,000 --> 00:01:54,000
+C'est ainsi que dans certaines applications,
+That why, in some applications,
+
+36
+00:01:54,000 --> 00:01:59,000
+Camille verra des publicités très proches de ses centres d'intérêt.
+Camille will see adverts very close to here hobbies.
+37
+00:02:00,000 --> 00:02:03,000
+Les pisteurs ne collectent pas que des données personnelles
+The trackers dont collect only personel datas
+
+38
+00:02:04,000 --> 00:02:06,000
+mais aussi des données d'usage.
+but also usage datas.
+
+39
+00:02:07,000 --> 00:02:09,000
+Ce sont des statistiques anonymes
+Those data are statistical and anomyzed
+
+40
+00:02:09,000 --> 00:02:12,000
+comme le temps de chargement de l'application
+like the loading time of the application
+
+41
+00:02:12,000 --> 00:02:15,000
+ou le nombre de fois où elle est lancée
+or the number of times it is started
+
+42
+00:02:15,000 --> 00:02:19,000
+et ce, sans lier l'information à une personne physique ou virtuelle.
+but not link a physical of virtual personn.
+
+43
+00:02:19,000 --> 00:02:23,000
+Elle permet à la personne créatrice de l'application
+It's help the application creator
+
+44
+00:02:23,000 --> 00:02:25,000
+de mieux connaître les personnes utilisatrices
+to have information about the kind of users
+
+45
+00:02:25,000 --> 00:02:28,000
+c'est-à-dire, l'audience de l'application.
+that means audience of the application.
+
+46
+00:02:28,000 --> 00:02:33,000
+Cela permet aussi d'avoir connaissance des dysfonctionnements
+It useful to have information about what's wrong in the application
+
+47
+00:02:33,000 --> 00:02:37,000
+et par exemple de savoir que sur telle marque de téléphone,
+and, for exemple, on a certain brand of smartphone
+
+48
+00:02:37,000 --> 00:02:40,000
+l'application ne fonctionne pas bien.
+the application did not work as expected.
+
+49
+00:02:40,000 --> 00:02:43,000
+Camille réalise donc que les pisteurs peuvent collecter
+Camille realize that the trackers could collect
+50
+00:02:43,000 --> 00:02:47,000
+des données personnelles et des données d'usage.
+personnal datas and usage datas.
+
+51
+00:02:47,000 --> 00:02:50,000
+Elle n'imaginait pas par exemple qu'on pouvait apprendre sur elle
+She did not event imagine that it could possible to learn about her
+52
+00:02:51,000 --> 00:02:58,000
+des éléments très sensibles comme sa maladie ou son orientation sexuelle.
+some very sensible informations like her hillness of her sexual orientation.
+
+53
+00:02:58,000 --> 00:03:03,000
+Si vous avez aimé cette vidéo, n'hésitez pas à le montrer
+If you like this video, please tell us
+54
+00:03:03,000 --> 00:03:06,000
+en cliquant sur le pouce en l'air
+by clicking on the up thumb
+55
+00:03:06,000 --> 00:03:10,000
+et si vous voulez profiter des prochaines aventures de Camille et d'autres vidéos
+and if you want to be alerted about the next Camille's adventures and other videos
+
+56
+00:03:10,000 --> 00:03:13,000
+abonnez-vous à la page d'Exodus Privacy
+subscribe to the Exodus Privacy  channel
+
+57
+00:03:13,000 --> 00:03:16,000
+ou bien allez sur Peertube en cliquant sur le lien ci-dessous.
+or go to Peertube by clicking on the link below.
+
+
