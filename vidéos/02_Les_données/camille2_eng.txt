@@ -1,0 +1,227 @@
+1
+00:00:00,000 --> 00:00:03,000
+Data collected by trackers
+
+2
+00:00:04,000 --> 00:00:06,000
+a video by Exodus Privacy
+
+3
+00:00:08,000 --> 00:00:10,000
+Camille recently learned
+
+4
+00:00:10,000 --> 00:00:14,000
+that in the apps she uses on her cellphone,
+
+5
+00:00:14,000 --> 00:00:16,000
+there might be trackers,
+
+6
+00:00:16,000 --> 00:00:18,000
+parts of softwares 
+
+7
+00:00:18,000 --> 00:00:21,000
+meant to collect data.
+
+8
+00:00:21,000 --> 00:00:24,000
+She is worried. She want to know more
+
+9
+00:00:24,000 --> 00:00:27,000
+about the kind of data which are collected.
+
+10
+00:00:28,000 --> 00:00:30,000
+But she will learn
+
+11
+00:00:30,000 --> 00:00:33,000
+that there are two different type of it.
+
+12
+00:00:33,000 --> 00:00:36,000
+Personal data and usage data.
+
+13
+00:00:37,000 --> 00:00:40,000
+About the first ones, the personal data.
+
+14
+00:00:40,000 --> 00:00:46,000
+Trackers allow their creators to know many things about Camille.
+
+15
+00:00:46,000 --> 00:00:48,000
+For example that she goes every month
+
+16
+00:00:48,000 --> 00:00:50,000
+to the same pharmacy.
+
+17
+00:00:50,000 --> 00:00:53,000
+The localisation trackers
+
+18
+00:00:53,000 --> 00:00:54,000
+use the sensors of her cellphone
+
+19
+00:00:54,000 --> 00:00:58,000
+like the GPS chip or the local Wifi networks
+
+20
+00:00:58,000 --> 00:01:02,000
+to find the location of her cellphone.
+
+21
+00:01:02,000 --> 00:01:05,000
+But thats just the beginning.
+
+22
+00:01:05,000 --> 00:01:07,000
+It is also possible to know that she wears 5 size shoes
+
+23
+00:01:07,000 --> 00:01:10,000
+that she is diabetic and queer.
+
+24
+00:01:10,000 --> 00:01:13,000
+thanks to the history of her visited web sites
+
+25
+00:01:13,000 --> 00:01:16,000
+or with the list of the apps installed on her phone.
+
+26
+00:01:16,000 --> 00:01:20,000
+That's what we call profiling.
+
+27
+00:01:20,000 --> 00:01:22,000
+It enables the creation of a virtual profile.
+
+28
+00:01:22,000 --> 00:01:27,000
+The more precise he is, the more expensive he is on the market of personal data
+
+29
+00:01:27,000 --> 00:01:30,000
+But Camille thought she could protect herself
+
+30
+00:01:30,000 --> 00:01:34,000
+by using aliases on the Internet.
+
+31
+00:01:34,000 --> 00:01:38,000
+But that's without counting on the identification trackers.
+
+32
+00:01:38,000 --> 00:01:42,000
+which allow the linking between Camille's online activies
+
+33
+00:01:42,000 --> 00:01:45,000
+and her offline activities.
+
+34
+00:01:45,000 --> 00:01:51,000.
+Finally, ad trackers allow for targeted ads.
+
+35
+00:01:51,000 --> 00:01:54,000
+That's why, in some apps
+
+36
+00:01:54,000 --> 00:01:59,000
+Camille will see ads very close to her area of interest.
+
+37
+00:02:00,000 --> 00:02:03,000
+Trackers do not only collect personal data
+
+38
+00:02:04,000 --> 00:02:06,000
+but also usage data.
+
+39
+00:02:07,000 --> 00:02:09,000
+They are anonymous stats
+
+40
+00:02:09,000 --> 00:02:12,000
+like the loading time of the app, 
+
+41
+00:02:12,000 --> 00:02:15,000
+or how many times was it lauched.
+
+42
+00:02:15,000 --> 00:02:19,000
+but without linking the information to a real or a virtual person.
+
+43
+00:02:19,000 --> 00:02:23,000
+They allow the creator of the app
+
+44
+00:02:23,000 --> 00:02:25,000
+to know the users more.
+
+45
+00:02:25,000 --> 00:02:28,000
+which means who exactly uses their app.
+
+46
+00:02:28,000 --> 00:02:33,000
+It can also be use to track bugs or issues.
+
+47
+00:02:33,000 --> 00:02:37,000
+and for exemple to know on which brand of phone
+
+48
+00:02:37,000 --> 00:02:40,000
+the app is malfunctionning.
+
+49
+00:02:40,000 --> 00:02:43,000
+Camille realizes that the trackers can collect
+
+50
+00:02:43,000 --> 00:02:47,000
+personal data and usage data.
+
+51
+00:02:47,000 --> 00:02:50,000
+She didn't thought that it was possible to learn
+
+52
+00:02:51,000 --> 00:02:58,000
+very sensitives details like her illness or her sexual orientation.
+
+53
+00:02:58,000 --> 00:03:03,000
+If you liked that video, feel free to show it
+
+54
+00:03:03,000 --> 00:03:06,000
+by hitting the thumb up.
+
+55
+00:03:06,000 --> 00:03:10,000
+If you'd like to see the adventures of Camille or others videos
+
+56
+00:03:10,000 --> 00:03:13,000
+you can also subscribe to Exodus Privacy
+
+57
+00:03:13,000 --> 00:03:16,000
+You can also see them on Peertube (links below).
