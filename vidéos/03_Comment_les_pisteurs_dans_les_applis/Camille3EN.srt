@@ -53,7 +53,7 @@ In order to answer this question
 
 14
 00:00:37,000 --> 00:00:38,900
-Camille must understant 
+Camille must understand
 
 15
 00:00:38,900 --> 00:00:42,000
@@ -129,7 +129,7 @@ in library code
 
 33
 00:01:27,000 --> 00:01:29,800
-or write all the applicatiion code, from scratch.
+or write all the application code, from scratch.
 
 34
 00:01:30,200 --> 00:01:35,000
@@ -149,7 +149,7 @@ in the application program
 
 38
 00:01:44,000 --> 00:01:47,800
-It could be come form the persons who wrote the applications
+It could be from the persons who wrote the applications
 
 39
 00:01:47,800 --> 00:01:51,700
@@ -157,7 +157,7 @@ for example to have revenues for adverts.
 
 40
 00:01:51,700 --> 00:01:57,300
-But some time those persons does not even know they add tracker.
+But some time those persons does not even know they've added a tracker.
 
 41
 00:01:57,300 --> 00:02:01,800
@@ -169,7 +169,7 @@ which use geoloc whitout her knowledge,
 
 43
 00:02:05,800 --> 00:02:09,900
-and the final application will have a tracker.
+the final application will have a tracker.
 
 44
 00:02:10,600 --> 00:02:13,300
@@ -205,4 +205,4 @@ or find them on Peertube
 
 52
 00:02:36,700 --> 00:02:41,200
-Follow us on mastodon, twitter of Facebook.
+Follow us on mastodon, twitter or Facebook.
