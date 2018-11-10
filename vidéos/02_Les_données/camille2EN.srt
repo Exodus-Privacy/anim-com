@@ -67,7 +67,7 @@ the tracker can know a lot of things about Camille.
 15
 00:00:46,000 --> 00:00:48,000
 Par exemple qu'elle va tous les mois
-For example, that ? she goes every month
+For example, that she goes every month
 
 16
 00:00:48,000 --> 00:00:50,000
@@ -87,7 +87,7 @@ are using the smartphone sensors
 19
 00:00:54,000 --> 00:00:58,000
 comme la puce GPS ou les réseaux Wifi environnants
-like the GPS ship or the WiFi networks around
+like the GPS chip or the WiFi networks around
 
 20
 00:00:58,000 --> 00:01:02,000
@@ -157,12 +157,13 @@ used to to link the Camille's activities on Internet,
 33
 00:01:42,000 --> 00:01:45,000
 et les activités non connectées.
-and it's not connected activities.
+and her offline activities.
 
 34
 00:01:45,000 --> 00:01:51,000
 Et enfin, les pisteurs publicitaires permettent de faire de la publicité ciblée.
-At least, the advertisements trackers are used to make targeted adverts. 
+Finally, the advertisements trackers are used to make targeted adverts. 
+
 35
 00:01:51,000 --> 00:01:54,000
 C'est ainsi que dans certaines applications,
@@ -185,7 +186,7 @@ but also usage datas.
 39
 00:02:07,000 --> 00:02:09,000
 Ce sont des statistiques anonymes
-Those data are statistical and anomyzed
+Those data are statistical and anonimyzed
 
 40
 00:02:09,000 --> 00:02:12,000
@@ -200,7 +201,7 @@ or the number of times it is started
 42
 00:02:15,000 --> 00:02:19,000
 et ce, sans lier l'information à une personne physique ou virtuelle.
-but not link a physical of virtual personn.
+but without linking it to a physical or a virtual personn.
 
 43
 00:02:19,000 --> 00:02:23,000
@@ -235,7 +236,7 @@ the application did not work as expected.
 49
 00:02:40,000 --> 00:02:43,000
 Camille réalise donc que les pisteurs peuvent collecter
-Camille realize that the trackers could collect
+Camille realizes that the trackers could collect
 50
 00:02:43,000 --> 00:02:47,000
 des données personnelles et des données d'usage.
@@ -244,11 +245,11 @@ personnal datas and usage datas.
 51
 00:02:47,000 --> 00:02:50,000
 Elle n'imaginait pas par exemple qu'on pouvait apprendre sur elle
-She did not event imagine that it could possible to learn about her
+She did not even imagine that it could possible to learn about her
 52
 00:02:51,000 --> 00:02:58,000
 des éléments très sensibles comme sa maladie ou son orientation sexuelle.
-some very sensible informations like her hillness of her sexual orientation.
+some very sensible informations like her illness or her sexual orientation.
 
 53
 00:02:58,000 --> 00:03:03,000
@@ -257,7 +258,7 @@ If you like this video, please tell us
 54
 00:03:03,000 --> 00:03:06,000
 en cliquant sur le pouce en l'air
-by clicking on the up thumb
+by clicking on the thumb up
 55
 00:03:06,000 --> 00:03:10,000
 et si vous voulez profiter des prochaines aventures de Camille et d'autres vidéos
