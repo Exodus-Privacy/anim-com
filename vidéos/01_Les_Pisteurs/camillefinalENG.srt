@@ -44,7 +44,7 @@ is that in each of these applications
 
 12
 00:00:29,900 --> 00:00:31,000
-there are trackers
+there are trackers.
 
 13
 00:00:31,000 --> 00:00:33,500
@@ -64,7 +64,7 @@ collecting data.
 
 17
 00:00:40,000 --> 00:00:41,000
-Such as,
+Such as
 
 18
 00:00:41,000 --> 00:00:43,400

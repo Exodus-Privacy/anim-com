@@ -5,7 +5,7 @@ The data collected by the trackers
 2
 00:00:04,000 --> 00:00:06,000
 une vidéo d'Exodus Privacy
- a video by Exodus Privacy
+a video by Exodus Privacy
 
 3
 00:00:08,000 --> 00:00:10,000
@@ -14,7 +14,7 @@ Camille recently learned
 4
 00:00:10,000 --> 00:00:14,000
 que dans les applications qu’elle utilise sur son téléphone,
-That the applications she is using with  her smartphone
+that the applications she is using with  her smartphone
 5
 00:00:14,000 --> 00:00:16,000
  il peut y avoir des pisteurs,
@@ -23,61 +23,61 @@ That the applications she is using with  her smartphone
 6
 00:00:16,000 --> 00:00:18,000
 ces morceaux de logiciels 
-these piece of software
+these pieces of software
 7
 00:00:18,000 --> 00:00:21,000
 chargés de collecter des données.
-used to collect datas.
+used to collect data.
 
 8
 00:00:21,000 --> 00:00:24,000
 Quelque peu contrariée, elle aimerait en savoir plus 
-A little bit upset, she would like to kown more
+A little bit upset, she would like to know more
 
 9
 00:00:24,000 --> 00:00:27,000
 et notamment quel type de données sont concernées.
-and specially which kind of datas are concerned.
+especially which kind of data are concerned.
 
 10
 00:00:28,000 --> 00:00:30,000
 Ce qu'elle va comprendre alors,
-She learn 
+She then learns 
 
 11
 00:00:30,000 --> 00:00:33,000
 C'est qu'il y en a deux sortes.
-that there is two kind of datas:
+that there are two kinds of data:
 
 12
 00:00:33,000 --> 00:00:36,000
 Les données personnelles et les données d'usage.
-Personal datas and unique usage datas.
+Personal data and usage data.
 
 13
 00:00:37,000 --> 00:00:40,000
 Concernant les premières, les données personnelles,
-About the first kind, personnal datas,
+About the first kind, personal data,
 
 14
 00:00:40,000 --> 00:00:46,000
 Les pisteurs permettent de savoirplein de choses sur Camille.
-the tracker can know a lot of things about Camille.
+trackers allow to know many things about Camille.
 
 15
 00:00:46,000 --> 00:00:48,000
 Par exemple qu'elle va tous les mois
-For example, that ? she goes every month
+For example, that she goes every month
 
 16
 00:00:48,000 --> 00:00:50,000
 à la même pharmacie.
-at the same pharmacy
+to the same pharmacy
 
 17
 00:00:50,000 --> 00:00:53,000
 puisque les pisteurs de localisation
-cause the localisation trackers
+since the localisation trackers
 
 18
 00:00:53,000 --> 00:00:54,000
@@ -92,7 +92,7 @@ like the GPS ship or the WiFi networks around
 20
 00:00:58,000 --> 00:01:02,000
 pour établir où est le téléphone de Camille.
-in order to know where is the Camille's smartphone.
+to establish where Camille's smartphone is.
 
 21
 00:01:02,000 --> 00:01:05,000
@@ -112,17 +112,17 @@ she has diabets and she's lesbian
 24
 00:01:10,000 --> 00:01:13,000
 Grâce à l'historique des sites consultés
-With the history of the visited websites
+From the history of visited websites
 
 25
 00:01:13,000 --> 00:01:16,000
 ou la liste des applications de son téléphone.
-or even the list of the application installed on her smartphone
+or even the list of apps installed on her smartphone.
 
 26
 00:01:16,000 --> 00:01:20,000
 C'est ce qu'on appelle le profilage 
-That's what we call the profiling
+That's what we call profiling,
 
 27
 00:01:20,000 --> 00:01:22,000
@@ -132,7 +132,7 @@ which allow to create a virtual profile.
 28
 00:01:22,000 --> 00:01:27,000
 Plus il est précis, plus il vaut cher sur le marché des données personnelles.
-More it's complete, more it valued on the personnal data market.
+The more complete it is, the more valuable it is on the personal data market.
 
 29
 00:01:27,000 --> 00:01:30,000
@@ -152,40 +152,40 @@ But there is also the identification trackers
 32
 00:01:38,000 --> 00:01:42,000
 qui permettent de faire le lien entre les activités de Camille sur le net
-used to to link the Camille's activities on Internet,
+allowing to link Camille's activities on the Internet
 
 33
 00:01:42,000 --> 00:01:45,000
 et les activités non connectées.
-and it's not connected activities.
+to her offline activities.
 
 34
 00:01:45,000 --> 00:01:51,000
 Et enfin, les pisteurs publicitaires permettent de faire de la publicité ciblée.
-At least, the advertisements trackers are used to make targeted adverts. 
+At last, the advertisement trackers are used to make targeted adverts. 
 35
 00:01:51,000 --> 00:01:54,000
 C'est ainsi que dans certaines applications,
-That why, in some applications,
+That's why, in some applications,
 
 36
 00:01:54,000 --> 00:01:59,000
 Camille verra des publicités très proches de ses centres d'intérêt.
-Camille will see adverts very close to here hobbies.
+Camille will see adverts very close to her hobbies.
 37
 00:02:00,000 --> 00:02:03,000
 Les pisteurs ne collectent pas que des données personnelles
-The trackers dont collect only personel datas
+Trackers don't only collect personal data
 
 38
 00:02:04,000 --> 00:02:06,000
 mais aussi des données d'usage.
-but also usage datas.
+but also usage data.
 
 39
 00:02:07,000 --> 00:02:09,000
 Ce sont des statistiques anonymes
-Those data are statistical and anomyzed
+Those data are statistical and anonymized
 
 40
 00:02:09,000 --> 00:02:12,000
@@ -200,68 +200,67 @@ or the number of times it is started
 42
 00:02:15,000 --> 00:02:19,000
 et ce, sans lier l'information à une personne physique ou virtuelle.
-but not link a physical of virtual personn.
+without linking such data to a physical or virtual person.
 
 43
 00:02:19,000 --> 00:02:23,000
 Elle permet à la personne créatrice de l'application
-It's help the application creator
+It helps the creator of the application
 
 44
 00:02:23,000 --> 00:02:25,000
 de mieux connaître les personnes utilisatrices
-to have information about the kind of users
+get to know its users,
 
 45
 00:02:25,000 --> 00:02:28,000
 c'est-à-dire, l'audience de l'application.
-that means audience of the application.
+that is, the audience of the application.
 
 46
 00:02:28,000 --> 00:02:33,000
 Cela permet aussi d'avoir connaissance des dysfonctionnements
-It useful to have information about what's wrong in the application
+It also allows to know the malfunctions of the app
 
 47
 00:02:33,000 --> 00:02:37,000
 et par exemple de savoir que sur telle marque de téléphone,
-and, for exemple, on a certain brand of smartphone
+and, for example, that on such brand of smartphone
 
 48
 00:02:37,000 --> 00:02:40,000
 l'application ne fonctionne pas bien.
-the application did not work as expected.
+the application does not work as expected.
 
 49
 00:02:40,000 --> 00:02:43,000
 Camille réalise donc que les pisteurs peuvent collecter
-Camille realize that the trackers could collect
+So Camille realizes the trackers could collect
 50
 00:02:43,000 --> 00:02:47,000
 des données personnelles et des données d'usage.
-personnal datas and usage datas.
+personal data and usage data.
 
 51
 00:02:47,000 --> 00:02:50,000
 Elle n'imaginait pas par exemple qu'on pouvait apprendre sur elle
-She did not event imagine that it could possible to learn about her
+She didn't imagine one could learn very sensitive information
 52
 00:02:51,000 --> 00:02:58,000
 des éléments très sensibles comme sa maladie ou son orientation sexuelle.
-some very sensible informations like her hillness of her sexual orientation.
-
+about her such as her illness or her sexual orientation
 53
 00:02:58,000 --> 00:03:03,000
 Si vous avez aimé cette vidéo, n'hésitez pas à le montrer
-If you like this video, please tell us
+If you liked this video, please let us know
 54
 00:03:03,000 --> 00:03:06,000
 en cliquant sur le pouce en l'air
-by clicking on the up thumb
+by clicking the thumbs up
 55
 00:03:06,000 --> 00:03:10,000
 et si vous voulez profiter des prochaines aventures de Camille et d'autres vidéos
-and if you want to be alerted about the next Camille's adventures and other videos
+and if you want to be alerted about the next adventures of Camille and other videos
 
 56
 00:03:10,000 --> 00:03:13,000
@@ -271,6 +270,6 @@ subscribe to the Exodus Privacy  channel
 57
 00:03:13,000 --> 00:03:16,000
 ou bien allez sur Peertube en cliquant sur le lien ci-dessous.
-or go to Peertube by clicking on the link below.
+or go to Peertube by clicking the link below.
 
 
