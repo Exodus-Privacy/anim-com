@@ -16,7 +16,7 @@ The Exodus Privacy Team
 🇫🇷
 Ce dépôt est utiliser pour la communication externe de Exodus Privacy.
 
-Vous y trouverez les vidéos et, plus important, les fichiers de sous-titres (dans les dossiers vdiéos/xxxx).
+Vous y trouverez les vidéos et, plus important, les fichiers de sous-titres (dans les dossiers vidéos/xxxx).
 
 Si vous avez une belle voix et envie de doubler les vidéos, votre aide est la bienvenue.
 
