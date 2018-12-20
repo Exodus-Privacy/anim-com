@@ -12,8 +12,17 @@
 			color:#FFF;
 			text-align:center;
 			font-size:70px;
+			padding-bottom:20px;
 		}
-		.cover-slide p {
+		.cover-slide h3 {
+			margin:50px 0 0;
+			color:#FFF;
+			text-align:center;
+			font-size:40px;
+			padding-bottom:20px;
+			font-weight: bold;
+		}
+		/* .cover-slide p {
 			margin:40px 0 0;
 			text-align:center;
 			color:#FFF;
@@ -22,30 +31,34 @@
 		}
 		.cover-slide p a {
 			color:#FFF;
-		}
-		h3 {
+		} */
+		h3.subtitle {
 			font-weight: bold;
 		}
 		.muted {
 			color: rgb(85, 85, 85);
 			font-style: italic;
 		}
+		.text-center {
+			text-align: center;
+		}
 		.large {
 			line-height: 1.5;
 			font-size: 50px;
-		}
-		.text-center {
-			text-align: center;
 		}
 		.medium {
 			line-height: 1.25;
 			font-size: 35px;
 		}
 		.superquote {
-			font-size: 50px
+			font-size: 50px;
 		}
 		.mediumquote {
-			font-size: 35px
+			font-size: 35px;
+		}
+		.slide-title {
+			text-align: center;
+			font-size:3em;
 		}
 	</style>
 </head>
@@ -60,11 +73,30 @@
 		<figure>
 			<img class="cover" src="assets/animated_logo_exodus.gif" alt="">
 		</figure>
-		<h2 class="place bottom" style="padding-bottom:20px;">Exodus Privacy&nbsp;&nbsp;&nbsp;</h2>
+		<h3 class="place bottom">Exodus Privacy - FOSDEM 2019</h3>
 	</section>
 
 	<section class="slide">
-		<div class="place middle center" style="text-align: center; font-size:3em;">
+		<div class="place slide-title">
+			Today's talk
+		</div>
+	</section>
+
+	<section class="slide">
+		<h2>Exodus Privacy at FOSDEM 2019</h2>
+		<h3 class="subtitle">Topic</h3>
+		<ul>
+			<li>The behavior of mobile applications and its consequences for our privacy</li>
+		</ul>
+		<h3 class="subtitle">Speakers</h3>
+		<ul>
+			<li>Guiness</li>
+			<li>pnu</li>
+		</ul>
+	</section>
+
+	<section class="slide">
+		<div class="place slide-title">
 			Who we are
 		</div>
 	</section>
@@ -74,10 +106,10 @@
 		<p>
 		<ul>
 			<li>Group of French hacktivists</li>
-			<li>1 year old non-profit organization</li>
+			<li>Non-profit organization founded in October 2017</li>
 			<li>Undefined number of members</li>
 			<li>Strict legal rules</li>
-			<li>2 collaborations:
+			<li>2 main collaborations:
 				<ul>
 					<li>Yale Privacy Lab</li>
 					<li>F-Droid</li>
@@ -91,7 +123,7 @@
 	</section>
 
 	<section class="slide">
-		<div class="place middle center" style="text-align: center; font-size:3em;">
+		<div class="place slide-title">
 			Our goal
 		</div>
 	</section>
@@ -110,7 +142,7 @@
 			<li>Statically analyze <code>APK</code> files</li>
 		</ul>
 		<p>
-			We develop a transparency tool allowing people to know what is embedded in applications.
+			We develop a transparency tool allowing people to know what is embedded in Android applications.
 		</p>
 		<div class="place bottom center">
 			<img width="100px" src="assets/logo_purple_without_text_huge.png" alt="">
@@ -118,7 +150,8 @@
 	</section>
 
 	<section class="slide">
-		<img src="assets/fr.meteo.2.png" class="cover">
+		<!-- TODO: change picture with a high res one taking the whole slide -->
+		<img src="assets/fr.meteo.3.png" class="cover">
 	</section>
 
 	<section class="slide">
@@ -139,16 +172,19 @@
 	</section>
 
 	<section class="slide">
+		<!-- TODO: update the screenshot -->
 		<img src="assets/tracker.1.png" class="cover">
 	</section>
 
 	<section class="slide">
 		<h2>How we detect them</h2>
-		<h3>Static analysis</h3>
+		<h3 class="subtitle">Static analysis</h3>
 		<ul>
 			<li>List Java classes embedded in the APK</li>
 			<li>Find classes matching the tracker code signature</li>
-			<li class="muted">Dexdump, Androguard, Gplaycli</li>
+			<li class="muted">Gplaycli: download the APK and get application details from Google Play</li>
+			<li class="muted">Androguard: get permissions, code version and certificates</li>
+			<li class="muted">Dexdump: extract list of classes from APK file</li>
 		</ul>
 	</section>
 
@@ -168,18 +204,18 @@
     <section class="slide">
         <h2>Exodus Privacy Application</h2>
         <ul>
-            <li> Show the trackers in apps in your smartphone </li>
-            <li> Lists permissions required by the apps in your smartphone </li>
+            <li> Show the <b>trackers</b> and <b>required permissions</b> in the apps in your smartphone </li>
             <li> Available on F-Droid and Google Play!</li>
         </ul>
+        <img src="assets/exodus-app.png" height="300px">
     </section>
 
     <section class="slide">
         <h2>Exodify: Exodus Privacy in your browser</h2>
         <ul>
-            <li>Browser extension for Firefox and Chrome</li>
-            <li>Displays the number of trackers of each application</li>
-            <li>Quick link to submit the application for an analysis</li>
+            <li>Browser extension for <b>Firefox</b> and <b>Chrome</b></li>
+            <li>Displays the number of trackers embedded in each application</li>
+            <li>Quick link to submit the application for a new analysis</li>
         </ul>
     </section>
 
@@ -191,7 +227,7 @@
     </section>
 
 	<section class="slide">
-		<div class="place middle center" style="text-align: center; font-size:3em;">
+		<div class="place slide-title">
 			First results
 		</div>
 	</section>
@@ -200,13 +236,13 @@
 		<h2>What we did during the last past year</h2>
 		<ul>
 			<li>We effectively exist since <b>11/24/2017</b> - <i>first public release</i></li>
-			<li>We have identified <b>152 trackers</b> and analyzed <b>+35000 applications</b></li>
+			<li>We have identified <b>152 trackers</b> and analyzed <b>+45000 applications</b></li>
 			<li>We helped developers and companies like <b>Qwant</b> to <b> decontaminate their applications</b></li>
-			<li>We provided lot of advices/<b>courses to developers</b> who want to respect privacy</li>
+			<li>We provided a lot of <b>advices/courses to developers</b> who want to respect privacy</li>
 			<li>We did <b>deep audits</b> of several applications like <b>Baby+</b></li>
 			<li>We provided <b>statistics</b> and datasets to journalists and labs</li>
 			<li>We opened a <b>REST API</b></li>
-      <li>create 3 animations to explain trackers in applications</li>
+      		<li>We created <b>3 animation videos</b> to explain trackers to the public</li>
 		</ul>
 		<p class="note">
 			Everything is free and open 🎄
@@ -214,7 +250,8 @@
 	</section>
 
 	<section class="slide">
-		<img src="assets/trackers.1.png" class="cover">
+		<h2>Most frequent trackers</h2>
+		<center><img src="assets/trackers.2.png" width="525px"></center>
 	</section>
 
 	<section class="slide">
@@ -245,14 +282,14 @@
 
 	<section class="slide">
 		<h2>Even french TV knows about us</h2>
-		<p>We made, for France2, a TV report about Waze application and all the "<i>unknown leaks</i>" of GPS data.
+		<p>We made, for the french public TV channel <b>France2</b>, a TV report about Waze application and all the "<i>unknown leaks</i>" of GPS data.
 		<br/>The report was broacasted on Feb. 24th 2018</p>
 		<p class="note place bottom left" style="margin-left:25px;">The replay can be found on <a href="https://youtu.be/ZrRneLW-X8Y?t=2380">Youtube</a>.</p>
 		<img src="assets/tout_compte_fait.png" width="550px" class="place bottom right" alt="">
 	</section>
 
     <section class="slide">
-    	<div class="place middle center" style="text-align: center; font-size:3em;">
+    	<div class="place slide-title">
       		Our material
     	</div>
   	</section>
@@ -263,15 +300,14 @@
     	<ul>
       		<li>Stickers ☺</li>
 		    <li>Flyers</li>
-		    <li>YouTube channel</li>
-		    <li>Peertube channel</li>
+		    <li>Peertube and YouTube channel</li>
 		    <li>Mastodon, Twitter and Facebook accounts</li>
 		    <li>Conferences like today</li>
     	</ul>
   	</section>
 
 	<section class="slide">
-		<div class="place middle center" style="text-align: center; font-size:3em;">
+		<div class="place slide-title">
 			Our future
 		</div>
   	</section>
@@ -279,6 +315,7 @@
 	<section class="slide">
 		<h2>What's next</h2>
 		<ul>
+			<!-- TODO: update this list -->
 			<li>Compare Google Play and <b>F-Droid</b> versions of a same application</li>
 			<li>Improve static analysis by integrating <b>LibScout</b></li>
 			<li><b>Federate actors</b> in the field of privacy protection</li>
@@ -304,13 +341,13 @@
 		<br>
 		<div class="text-center">
 			<h2>
-				<a href="https://exodus-privacy.eu.org/#help">https://exodus-privacy.eu.org/#help</a>
+				<a href="https://exodus-privacy.eu.org/en/page/contribute/">https://exodus-privacy.eu.org/en/page/contribute/</a>
 			</h2>
 		</div>
 	</section>
 
 	<section class="slide">
-		<div class="place middle center" style="text-align: center; font-size:3em;">
+		<div class="place slide-title">
 			Q/A
 		</div>
 	</section>
