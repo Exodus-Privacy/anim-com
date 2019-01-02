@@ -12,7 +12,7 @@ some applications on her smartphone
 
 4
 00:00:11,000 --> 00:00:14,200
-but she discovered the existance of trackers
+but she discovered the existence of trackers
 
 5
 00:00:14,200 --> 00:00:15,800
@@ -37,11 +37,11 @@ like her illness or her sexual orientation.
 
 10
 00:00:27,200 --> 00:00:28,700
-Camille ask her self
+Camille asks her self
 
 11
 00:00:28,700 --> 00:00:32,000
-How those trackers came into the applicationss?
+How those trackers came into the applications?
 
 12
 00:00:32,000 --> 00:00:35,000
@@ -53,7 +53,7 @@ In order to answer this question
 
 14
 00:00:37,000 --> 00:00:38,900
-Camille must understant 
+Camille must understand
 
 15
 00:00:38,900 --> 00:00:42,000
@@ -69,7 +69,7 @@ They all have a goal:
 
 18
 00:00:47,000 --> 00:00:49,500
-helping Cammille to do her shopping,
+helping Camille to do her shopping,
 
 19
 00:00:49,500 --> 00:00:51,000
@@ -85,11 +85,11 @@ They are both complex to build.
 
 22
 00:00:56,300 --> 00:00:57,800
-a lot of stuff
+A lot of stuff
 
 23
 00:00:57,800 --> 00:01:02,000
-and many differents professions participate to the creation. 
+and many different professions participate to the creation. 
 
 24
 00:01:02,000 --> 00:01:04,500
@@ -97,7 +97,7 @@ In order to build the engine,
 
 25
 00:01:04,500 --> 00:01:07,800
-there is two choices for the engineers.
+there are two choices for the engineers:
 
 26
 00:01:07,800 --> 00:01:09,700
@@ -125,11 +125,11 @@ could choose to use an already done piece of code
 
 32
 00:01:24,800 --> 00:01:27,000
-in library code
+in code libraries
 
 33
 00:01:27,000 --> 00:01:29,800
-or write all the applicatiion code, from scratch.
+or write all the application code, from scratch.
 
 34
 00:01:30,200 --> 00:01:35,000
@@ -141,23 +141,23 @@ A traker, it's a piece of code.
 
 36
 00:01:38,700 --> 00:01:41,000
-So someone has to write at a time
+So someone has to write it at one time
 
 37
 00:01:41,000 --> 00:01:44,000
-in the application program
+in the application program.
 
 38
 00:01:44,000 --> 00:01:47,800
-It could be come form the persons who wrote the applications
+It could come form the persons who wrote the applications
 
 39
 00:01:47,800 --> 00:01:51,700
-for example to have revenues for adverts.
+for example if their income comes from advertising.
 
 40
 00:01:51,700 --> 00:01:57,300
-But some time those persons does not even know they add tracker.
+But some time this people do not even know they add tracker.
 
 41
 00:01:57,300 --> 00:02:01,800
@@ -165,7 +165,7 @@ For example, if a developer use a piece of code wrote by others
 
 42
 00:02:01,800 --> 00:02:05,800
-which use geoloc whitout her knowledge,
+which use geolocation whitout her knowledge,
 
 43
 00:02:05,800 --> 00:02:09,900
@@ -205,4 +205,4 @@ or find them on Peertube
 
 52
 00:02:36,700 --> 00:02:41,200
-Follow us on mastodon, twitter of Facebook.
+Follow us on Mastodon, Twitter or Facebook.
