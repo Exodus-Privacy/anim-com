@@ -184,7 +184,7 @@ Cela permet aussi d'avoir connaissance des dysfonctionnements
 
 47
 00:02:33,000 --> 00:02:37,000
-et par exemple de savoir que sur quelle marque de téléphone
+et par exemple de savoir que sur telle marque de téléphone
 
 48
 00:02:37,000 --> 00:02:40,000
