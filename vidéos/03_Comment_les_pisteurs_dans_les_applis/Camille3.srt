@@ -89,7 +89,7 @@ Beaucoup d'éléments
 
 23
 00:00:57,800 --> 00:01:02,000
-et de professions différentes participent à la création.
+et de professions différentes participent à sa création.
 
 24
 00:01:02,000 --> 00:01:04,500
@@ -133,7 +133,7 @@ ou bien tout écrire de A à Z.
 
 34
 00:01:30,200 --> 00:01:35,000
-Mais alors,à quel moment les pisteurs se retrouvent-ils dans les applications ?
+Mais alors, à quel moment les pisteurs se retrouvent-ils dans les applications ?
 
 35
 00:01:36,000 --> 00:01:38,700
@@ -166,7 +166,7 @@ Par exemple, si une développeuse utilise un bout de code fait par d'autres
 
 42
 00:02:01,800 --> 00:02:05,800
-qui comprends un pisteur de géolocalisation sans qu'elle le sache,
+qui comprend un pisteur de géolocalisation sans qu'elle le sache,
 
 43
 00:02:05,800 --> 00:02:09,900
@@ -178,7 +178,7 @@ Et si Camille l'installe sur son téléphone,
 
 45
 00:02:13,300 --> 00:02:15,900
-elle sera suivi à la trace par ce biais
+elle sera suivie à la trace par ce biais
 
 46
 00:02:16,800 --> 00:02:20,140
@@ -186,7 +186,7 @@ Comme on trouve le même moteur dans différentes voitures,
 
 47
 00:02:20,140 --> 00:02:23,900
-On trouve les mêmes pisteurs dans différentes applications.
+on trouve les mêmes pisteurs dans différentes applications.
 
 48
 00:02:25,400 --> 00:02:28,800
@@ -202,7 +202,7 @@ et vous abonner à la chaîne d'Exodus Privacy
 
 51
 00:02:34,300 --> 00:02:36,700
-sur Youtube ou Peertube
+sur Youtube ou Peertube.
 
 52
 00:02:36,700 --> 00:02:41,200
