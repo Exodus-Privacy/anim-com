@@ -14,11 +14,11 @@ Fork this repo and just do it.
 The Exodus Privacy Team
 
 🇫🇷
-Ce dépôt est utiliser pour la communication externe de Exodus Privacy.
+Ce dépôt sert à la communication externe d'Exodus Privacy.
 
 Vous y trouverez les vidéos et, plus important, les fichiers de sous-titres (dans les dossiers vdiéos/xxxx).
 
-Si vous avez une belle voix et envie de doubler les vidéos, votre aide est la bienvenue.
+Si vous avez une belle voix et l'envie de doubler les vidéos, votre aide est la bienvenue.
 
 « Forkez » le dépôt et amusez-vous bien.
 
