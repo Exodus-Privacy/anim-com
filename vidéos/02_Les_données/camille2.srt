@@ -16,11 +16,11 @@ que dans les applications qu’elle utilise sur son téléphone,
 
 5
 00:00:14,000 --> 00:00:16,000
- il peut y avoir des pisteurs,
+il peut y avoir des pisteurs,
 
 6
 00:00:16,000 --> 00:00:18,000
-ces morceaux de logiciels 
+ces morceaux de logiciel
 
 7
 00:00:18,000 --> 00:00:21,000
@@ -32,7 +32,7 @@ Quelque peu contrariée, elle aimerait en savoir plus
 
 9
 00:00:24,000 --> 00:00:27,000
-et notamment quel type de données sont concernées.
+et notamment quels types de données sont concernés.
 
 10
 00:00:28,000 --> 00:00:30,000
@@ -40,7 +40,7 @@ Ce qu'elle va comprendre alors,
 
 11
 00:00:30,000 --> 00:00:33,000
-C'est qu'il y en a deux sortes.
+c'est qu'il y en a deux sortes.
 
 12
 00:00:33,000 --> 00:00:36,000
@@ -52,7 +52,7 @@ Concernant les premières, les données personnelles,
 
 14
 00:00:40,000 --> 00:00:46,000
-Les pisteurs permettent de savoirplein de choses sur Camille.
+les pisteurs permettent de savoir plein de choses sur Camille.
 
 15
 00:00:46,000 --> 00:00:48,000
@@ -60,7 +60,7 @@ Par exemple qu'elle va tous les mois
 
 16
 00:00:48,000 --> 00:00:50,000
-à la même pharmacie.
+à la même pharmacie
 
 17
 00:00:50,000 --> 00:00:53,000
@@ -88,11 +88,11 @@ Il est aussi possible de savoir qu'elle fait du 38,
 
 23
 00:01:07,000 --> 00:01:10,000
-Qu'elle est diabétique et homosexuelle
+qu'elle est diabétique et homosexuelle
 
 24
 00:01:10,000 --> 00:01:13,000
-Grâce à l'historique des sites consultés
+grâce à l'historique des sites consultés
 
 25
 00:01:13,000 --> 00:01:16,000
@@ -100,7 +100,7 @@ ou la liste des applications de son téléphone.
 
 26
 00:01:16,000 --> 00:01:20,000
-C'est ce qu'on appelle le profilage 
+C'est ce qu'on appelle le profilage
 
 27
 00:01:20,000 --> 00:01:22,000
@@ -120,7 +120,7 @@ en utilisant des pseudonymes sur Internet.
 
 31
 00:01:34,000 --> 00:01:38,000
-Mais c'est  sans compter sur les pisteurs d'identification
+Mais c'est sans compter sur les pisteurs d'identification
 
 32
 00:01:38,000 --> 00:01:42,000
