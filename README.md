@@ -29,10 +29,10 @@ Dieses Repository wird für die externe Kommunikation von Exodus Privacy benutzt
 
 Die Videos und viel wichtiger die Untertitel Dateien findest du in (vidéos/xxx Verzeichnis).
 
-Wenn du uns helfen willst um unsere Untertitel zu verbessen oder deine Muttersprache hinzufügen, zögere nicht, deine Beteiligung ist stets willkommen.
+Wenn du uns helfen möchtest, unsere Untertitel zu verbessen oder deine Muttersprache hinzuzufügen, zögere nicht, dein Beitrag ist stets willkommen.
 
-Wenn du eine schöne Stimme hast und ready to dubb diese videos, nur zu.
+Wenn du eine nette Stimme hast und bereit bist diese Videos zu synchronisieren, nur zu.
 
-Fork dieses Repository und machs einfach.
+Fork dir dieses Repo und "just do it".
 
 The Exodus Privacy Team
