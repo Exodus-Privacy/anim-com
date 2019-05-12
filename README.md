@@ -23,3 +23,16 @@ Si vous avez une belle voix et l'envie de doubler les vidéos, votre aide est la
 « Forkez » le dépôt et amusez-vous bien.
 
 L'équipe Exodus Privacy
+
+:de:
+Dieses Repository wird für die externe Kommunikation von Exodus Privacy benutzt.
+
+Die Videos und viel wichtiger die Untertitel Dateien findest du in (vidéos/xxx Verzeichnis).
+
+Wenn du uns helfen willst um unsere Untertitel zu verbessen oder deine Muttersprache hinzufügen, zögere nicht, deine Beteiligung ist stets willkommen.
+
+Wenn du eine schöne Stimme hast und ready to dubb diese videos, nur zu.
+
+Fork dieses Repository und machs einfach.
+
+The Exodus Privacy Team
