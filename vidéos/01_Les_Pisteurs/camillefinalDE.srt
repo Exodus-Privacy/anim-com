@@ -1,0 +1,171 @@
+1
+00:00:07,000 --> 00:00:08,000
+Jeden Tag,
+
+2
+00:00:08,000 --> 00:00:09,900
+Camille benutzt apps
+
+3
+00:00:09,900 --> 00:00:11,400
+auf ihrem Telefon
+
+4
+00:00:11,400 --> 00:00:13,900
+und diese sind sehr nützlich
+
+5
+00:00:13,900 --> 00:00:15,500
+Zum Beispiel
+
+6
+00:00:15,500 --> 00:00:17,000
+um das aktuelle Wetter zu wissen,
+
+7
+00:00:17,000 --> 00:00:18,900
+um ihren Bankkonto zu überprüfen,
+
+8
+00:00:18,900 --> 00:00:21,500
+oder ihre Glykämie
+
+9
+00:00:21,500 --> 00:00:24,500
+weil Camille Diabetis hat.
+
+10
+00:00:24,500 --> 00:00:27,500
+Aber, was Camille nicht weiss
+
+11
+00:00:27,500 --> 00:00:29,900
+ist, dass jede dieser Apps
+
+12
+00:00:29,900 --> 00:00:31,000
+Tracker beinhaltet
+
+13
+00:00:31,000 --> 00:00:33,500
+Diese Tracker wurden hinzugefügt
+
+14
+00:00:33,400 --> 00:00:35,900
+als die App erstellt wurde
+
+15
+00:00:35,900 --> 00:00:37,400
+mit dem einzigen Zweck
+
+16
+00:00:37,400 --> 00:00:40,000
+Daten zu sammeln.
+
+17
+00:00:40,000 --> 00:00:41,000
+Wie z.b,
+
+18
+00:00:41,000 --> 00:00:43,400
+wo Camille lebt
+
+19
+00:00:43,400 --> 00:00:45,000
+wo sie arbeitet
+
+20
+00:00:45,000 --> 00:00:47,000
+oder die Apotheke
+
+21
+00:00:47,000 --> 00:00:49,500
+in der sie ihre Medikamente bekommt.
+
+22
+00:00:49,500 --> 00:00:52,000
+Diese Tracker erlauben der Person
+
+23
+00:00:52,000 --> 00:00:54,500
+die die App programmiert hat,
+
+24
+00:00:54,500 --> 00:00:58,000
+die Möglichkeit zu wissen wer diese App benutzt
+
+25
+00:00:58,000 --> 00:01:01,000
+das Publikum kennen,
+
+26
+00:01:01,000 --> 00:01:02,500
+aber auch,
+
+27
+00:01:02,500 --> 00:01:05,000
+wenn sie Werbung anbieten
+
+28
+00:01:05,000 --> 00:01:06,800
+diese so zielgerichtet wie es nur geht.
+
+29
+00:01:06,800 --> 00:01:09,600
+Tatsächlich, je gezielter eine Anzeige ist,
+
+30
+00:01:09,600 --> 00:01:11,500
+je effizienter dies wird,
+
+31
+00:01:11,500 --> 00:01:14,000
+je mehr Geld kann es einbringen.
+
+32
+00:01:14,000 --> 00:01:15,000
+Endlich,
+
+33
+00:01:15,000 --> 00:01:17,000
+der Programmierer der App
+
+34
+00:01:17,000 --> 00:01:21,000
+kann diese, durch Tracker gesammelten Daten, verkaufen.
+
+35
+00:01:21,000 --> 00:01:23,700
+Aber Camille mag das nicht wirklich,
+
+36
+00:01:23,700 --> 00:01:24,800
+all diese Trackers
+
+37
+00:01:24,800 --> 00:01:28,200
+sammeln Dinge über Sie ohne das sie es weiss.
+
+38
+00:01:28,200 --> 00:01:29,700
+Jetzt, Camille,
+
+39
+00:01:29,700 --> 00:01:32,000
+wenn sie eine App installiert
+
+40
+00:01:32,000 --> 00:01:35,300
+geht sie zuerst auf die Exodus Privacy Webseite.
+
+41
+00:01:35,300 --> 00:01:38,000
+Diese Platform analysiert
+
+42
+00:01:38,000 --> 00:01:40,000
+alle freien verfügbaren Apps im Google Store
+
+43
+00:01:40,000 --> 00:01:44,300
+und erkennt das vorkommen bzw. das fehlen von Trankern darauf.
