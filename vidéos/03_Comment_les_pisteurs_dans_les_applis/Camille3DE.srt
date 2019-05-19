@@ -1,0 +1,207 @@
+1
+00:00:02,000 --> 00:00:06,500
+Zuvor, in Camilles Abenteuern:
+
+2
+00:00:06,500 --> 00:00:08,000
+Camille benutzt jeden Tag
+
+3
+00:00:08,000 --> 00:00:11,000
+Anwendungen auf ihrem Smartphone
+
+4
+00:00:11,000 --> 00:00:14,200
+aber sie hat die Existenz von Trackern,
+
+5
+00:00:14,200 --> 00:00:15,800
+diese kleinen Stücke Code,
+
+6
+00:00:15,800 --> 00:00:19,000
+die Informationen über sie sammeln, erkannt.
+
+7
+00:00:19,000 --> 00:00:20,500
+Sie realisiert,
+
+8
+00:00:20,500 --> 00:00:23,100
+dass diese Daten sehr sensible Bereiche beeinflussen können,
+
+9
+00:00:23,100 --> 00:00:27,200
+wie ihre Krankheit oder sexuelle Ausrichtung.
+
+10
+00:00:27,200 --> 00:00:28,700
+Camille fragt sich selbst
+
+11
+00:00:28,700 --> 00:00:32,000
+wie diese Tracker in die Anwendungen kamen?
+
+12
+00:00:32,000 --> 00:00:35,000
+Ein Exodus Privacy Video
+
+13
+00:00:35,300 --> 00:00:37,000
+Um diese Frage zu beantworten,
+
+14
+00:00:37,000 --> 00:00:38,900
+musste Camille verstehen
+
+15
+00:00:38,900 --> 00:00:42,000
+wie Anwendungen gemacht werden.
+
+16
+00:00:42,000 --> 00:00:45,000
+Eine Anwendung, die ist ein bisschen wie ein Auto.
+
+17
+00:00:45,000 --> 00:00:47,000
+Beide haben ein Ziel: Cammile unterstützen!
+
+18
+00:00:47,000 --> 00:00:49,500
+Camille beim Einkaufen helfen,
+
+19
+00:00:49,500 --> 00:00:51,000
+Glücksspiele spielen,
+
+20
+00:00:51,000 --> 00:00:53,000
+oder ein Packet versenden.
+
+21
+00:00:53,000 --> 00:00:56,300
+Sie sind beide komplex herzustellen.
+
+22
+00:00:56,300 --> 00:00:57,800
+Eine ganze Menge Arbeit
+
+23
+00:00:57,800 --> 00:01:02,000
+und viele verschiedene Professionen partizipieren in der Herstellung.
+
+24
+00:01:02,000 --> 00:01:04,500
+Um den Motor zu bauen,
+
+25
+00:01:04,500 --> 00:01:07,800
+gibt es für die Ingenieure zwei Möglichkeiten:
+
+26
+00:01:07,800 --> 00:01:09,700
+Den Motor von Grund auf zu bauen
+
+27
+00:01:09,700 --> 00:01:12,500
+oder einen bereits erstellten zu benutzen.
+
+28
+00:01:13,000 --> 00:01:15,000
+Genau so ist es auch bei der Anwendung!
+
+29
+00:01:15,800 --> 00:01:17,650
+Entwickler,
+
+30
+00:01:17,650 --> 00:01:21,600
+die Personen die Code in Computersprache schreiben,
+
+31
+00:01:21,600 --> 00:01:24,800
+könnten einen bereits fertigen Teil Code verwenden,
+
+32
+00:01:24,800 --> 00:01:27,000
+aus Code-Bibliotheken,
+
+33
+00:01:27,000 --> 00:01:29,800
+oder den ganzen Anwendungscode, von Anfang an erstellen.
+
+34
+00:01:30,200 --> 00:01:35,000
+Ok. Also wann kamen Tracker in die Anwendung?
+
+35
+00:01:36,000 --> 00:01:38,700
+Ein Tracker ist ein Stück Code.
+
+36
+00:01:38,700 --> 00:01:41,000
+Also muss es jemand geschrieben haben
+
+37
+00:01:41,000 --> 00:01:44,000
+im Anwendungsprogramm.
+
+38
+00:01:44,000 --> 00:01:47,800
+Es könnte von der Person kommen, die die Anwendung geschrieben hat,
+
+39
+00:01:47,800 --> 00:01:51,700
+beispielsweise wenn ihre Einkünfte aus der Werbung entstehen.
+
+40
+00:01:51,700 --> 00:01:57,300
+Aber manchmal kennen diese Leute nicht mal die Werbetracker.
+
+41
+00:01:57,300 --> 00:02:01,800
+Zum Beispiel, wenn ein Entwickler ein Stück Code von jemand anderem nimmt,
+
+42
+00:02:01,800 --> 00:02:05,800
+welcher ohne dessen Wissen Geolokationen nutzt,
+
+43
+00:02:05,800 --> 00:02:09,900
+wird die finale Anwendung einen Tracker haben.
+
+44
+00:02:10,600 --> 00:02:13,300
+Und wenn Camille diese auf ihrem Smartphone installiert,
+
+45
+00:02:13,300 --> 00:02:15,900
+wird sie dadurch getrackt.
+
+46
+00:02:16,800 --> 00:02:20,140
+Wie wir auch den gleichen Motor in unterschiedlichen Autos finden,
+
+47
+00:02:20,140 --> 00:02:23,900
+können wir auch die gleichen Tracker in verschiedenen Anwendungen finden.
+
+48
+00:02:25,400 --> 00:02:28,800
+Um ein Auge auf Camilles Abenteuer zu werfen,
+
+49
+00:02:29,000 --> 00:02:31,150
+kannst du die beiden ersten Episoden anschauen
+
+50
+00:02:31,150 --> 00:02:34,300
+und den Exodus Privacy Youtube-Kanal abonnieren.
+
+51
+00:02:34,300 --> 00:02:36,700
+Oder finde sie auf Peertube.
+
+52
+00:02:36,700 --> 00:02:41,200
+Folge uns auf Mastodon, Twitter oder Facebook.
