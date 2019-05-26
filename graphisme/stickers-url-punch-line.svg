@@ -18,7 +18,7 @@
    inkscape:export-filename="/home/jacques/Bureau/stickers-url2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="stickers-url-punch-line.svg">
   <defs
      id="defs6365">
@@ -48,15 +48,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39"
-     inkscape:cx="451.3392"
+     inkscape:cx="-112.76336"
      inkscape:cy="881.26958"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1149"
+     inkscape:window-height="981"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -294,8 +294,7 @@
        id="text8819-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.89970016px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
-       transform="matrix(-0.98523059,-0.07916465,0.08751669,-0.89120696,313.95063,173.63877)"
-       sodipodi:linespacing="0%"><textPath
+       transform="matrix(-0.98523059,-0.07916465,0.08751669,-0.89120696,313.95063,173.63877)"><textPath
          xlink:href="#path4525"
          id="textPath4553">'Cause my privacy is not an adjustement variable!</textPath></text>
   </g>
