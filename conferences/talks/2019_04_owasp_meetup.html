@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Exodus Privacy</title>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="shower/shower/themes/ribbon/styles/screen-16x10.css">
+	<style>
+		.cover-slide h2 {
+			margin:50px 0 0;
+			color:#FFF;
+			text-align:center;
+			font-size:70px;
+			padding-bottom:20px;
+		}
+		.cover-slide h3 {
+			margin:50px 0 0;
+			color:#FFF;
+			text-align:center;
+			font-size:40px;
+			padding-bottom:20px;
+			font-weight: bold;
+		}
+		h3.subtitle {
+			font-weight: bold;
+		}
+		.muted {
+			color: rgb(85, 85, 85);
+			font-style: italic;
+		}
+		.text-center {
+			text-align: center;
+		}
+		.large {
+			line-height: 1.5;
+			font-size: 50px;
+		}
+		.medium {
+			line-height: 1.25;
+			font-size: 35px;
+		}
+		.superquote {
+			font-size: 50px;
+		}
+		.mediumquote {
+			font-size: 35px;
+		}
+		.slide-title {
+			text-align: center;
+			font-size:3em;
+		}
+	</style>
+</head>
+
+<body class="shower list">
+
+	<header class="caption">
+		<h1>Exodus Privacy</h1>
+	</header>
+
+	<section class="slide cover-slide">
+		<figure>
+			<img class="cover" src="assets/animated_logo_exodus.gif" alt="">
+		</figure>
+		<h3 class="place bottom">εxodus by Exodus Privacy</h3>
+	</section>
+
+	<section class="slide">
+		<h2>What is εxodus</h2>
+		<ul>
+			<li>A privacy auditing platform for Android applications</li>
+			<li>Identify trackers by code signatures</li>
+			<li>Statically analyze <code>APK</code> files</li>
+		</ul>
+		<p>
+			Transparency tool allowing people to know what is embedded in Android applications.
+		</p>
+		<div class="place bottom center">
+			<img width="150px" src="assets/logo_purple_without_text_huge.png" alt="">
+		</div>
+	</section>
+
+	<section class="slide">
+		<h2>What we call a tracker</h2>
+		<blockquote class="place mediumquote">
+			A tracker is a piece of software meant to collect data about you or your usages.
+		</blockquote>
+		<div style="margin-top: 16em">
+			Like <i><b>Ogury</b></i>, <i><b>Google Analytics</b></i>, <i><b>Teemo</b></i>, and many other.
+		</div>
+	</section>
+
+	<section class="slide">
+		<img src="assets/fr.meteo.3.png" class="cover">
+	</section>
+
+	<section class="slide">
+		<img src="assets/tracker.2.png" class="cover">
+	</section>
+
+	<section class="slide">
+		<h2>Local analysis tool</h2>
+		<h3 class="subtitle">exodus-standalone</h3>
+		<ul>
+			<li>εxodus CLI client for local APK static analysis</li>
+			<li>Can be used by developers to scan their own app before release</li>
+			<li>Prints reports as simple text or JSON</li>
+		</ul>
+	</section>
+
+	<section class="slide">
+		<h2>How does it work?</h2>
+		<h3 class="subtitle">Static analysis</h3>
+		<ul>
+			<li>List Java classes embedded in the APK</li>
+			<li>Find classes matching the tracker code signature</li>
+			<li class="muted">Gplaycli: download the APK and get application details from Google Play</li>
+			<li class="muted">Androguard: get permissions, code version and certificates</li>
+			<li class="muted">Dexdump: extract list of classes from APK file</li>
+		</ul>
+	</section>
+
+	<section class="slide">
+		<h2>Static analysis</h2>
+		<div class="place center bottom">
+			<img src="assets/static_analysis.png" height="450px">
+		</div>
+	</section>
+
+	<section class="slide">
+		<h2>Static analysis</h2>
+		<div class="place center bottom">
+			<img src="assets/static_analysis-plain.png" height="450px" class="">
+		</div>
+	</section>
+
+	<section class="slide">
+		<h2>Everything is free and open 🎄</h2>
+		<ul>
+			<li>Everything is available at <a href='https://github.com/Exodus-Privacy'>https://github.com/Exodus-Privacy</a></li>
+			<li>Feel free to check and contribute!</li>
+		</ul>
+		<div class="place bottom center">
+			<img width="250px" src="assets/github.png" alt="">
+		</div>
+	</section>
+
+	<section class="slide">
+		<h2>Exodus Privacy</h2>
+		<ul>
+			<li>Group of French hacktivists</li>
+			<li>Non-profit organization founded in October 2017</li>
+			<li>Undefined number of members</li>
+			<li>Strict legal rules</li>
+			<li>2 collaborations:
+				<ul>
+					<li>Yale Privacy Lab</li>
+					<li>F-Droid</li>
+				</ul>
+			</li>
+			<li>We do FLOSS</li>
+		</ul>
+		<div>
+			<img src="assets/qr-code.png" style="margin-right:60px" width="300px" class="place right">
+		</div>
+	</section>
+
+	<section class="slide">
+		<blockquote class="place large">
+			Make people aware of permanent tracking on smartphones
+		</blockquote>
+	</section>
+
+	<section class="slide">
+		<h2>Most frequent trackers on 53k applications</h2>
+		<center><img src="assets/trackers.3.png" width="500px"></center>
+	</section>
+
+	<section class="slide">
+		<h2>To dig further in</h2>
+		<ul>
+			<li>Exodus Privacy at the last FOSDEM: <a href="https://peertube.tamanoir.foucry.net/videos/watch/596cadb2-6055-437a-bd86-3b0e98458ca1">"The behavior of mobile applications and its consequences for our privacy"</a></li>
+			<li>Privacy International at 35C3: <a href="https://media.ccc.de/v/35c3-9941-how_facebook_tracks_you_on_android">"How Facebook tracks you on Android"</a></li>
+			<li>PiRanhaLysis project: <a href="https://github.com/PiRanhaLysis">https://github.com/PiRanhaLysis</a></li>
+		</ul>
+	</section>
+
+	<section class="slide">
+		<div class="place slide-title">
+			Thanks!
+		</div>
+	</section>
+
+	<div class="progress"></div>
+	<script src="shower/shower/shower.min.js"></script>
+</body>
+</html>
