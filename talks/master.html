@@ -8,63 +8,72 @@
 	<link rel="stylesheet" href="shower/shower/themes/ribbon/styles/screen-16x10.css">
 	<style>
 		.cover-slide h2 {
-			margin:50px 0 0;
-			color:#FFF;
-			text-align:center;
-			font-size:70px;
-			}
-		.cover-slide p {
-			margin:40px 0 0;
-			text-align:center;
-			color:#FFF;
-			font-style:italic;
-			font-size:40px;
-			}
-		.cover-slide p a {
-			color:#FFF;
-			}
-		h3 {
+			margin: 50px 0 0;
+			color: #FFF;
+			text-align: center;
+			font-size: 60px;
+			padding-bottom: 20px;
+		}
+		h3.subtitle {
 			font-weight: bold;
-		}
-		.muted {
-			color: rgb(85, 85, 85);
-			font-style: italic;
-		}
-		.large {
-			line-height: 1.5;
-			font-size: 50px;
 		}
 		.text-center {
 			text-align: center;
 		}
-		.medium {
-			line-height: 1.25;
-			font-size: 35px;
+		blockquote.large {
+			line-height: 1.5;
+			font-size: 50px;
 		}
-		.superquote {
-			font-size: 50px
+		blockquote.medium {
+			font-size: 33px;
 		}
-		.mediumquote {
-			font-size: 35px
+		.vmiddle {
+			vertical-align: middle;
+		}
+		p.left {
+			margin-left: 25px;
+		}
+		table.no-border tr td {
+			background: none !important;
+			padding-top: 10px;
+			padding-bottom: 10px;
 		}
 	</style>
 </head>
+
 <body class="shower list">
 
 	<header class="caption">
 		<h1>Exodus Privacy</h1>
 	</header>
 
-	<section class="slide cover-slide">
+	<section class="slide clear cover-slide">
 		<figure>
-			<img class="cover center" src="assets/animated_logo_exodus.gif" alt="">
+			<img class="cover center" src="assets/animated_logo_exodus.gif">
 		</figure>
-		<h2 class="place bottom center" style="padding-bottom: 20px; padding-right: 3%">Exodus Privacy</h2>
+		<h2 class="place bottom center">Exodus Privacy</h2>
 	</section>
+
 	<section class="slide">
-		<div class="place middle center" style="text-align: center; font-size:3em;">
-			Who we are
-		</div>
+		<h2 class="shout">Today's talk</h2>
+	</section>
+
+	<section class="slide">
+		<h2>Exodus Privacy at xxx</h2>
+		<h3 class="subtitle">Who we are</h3>
+		<ul>
+			<li>xxx</li>
+			<li>xxx</li>
+		</ul>
+		<h3 class="subtitle">What we will talk about</h3>
+		<ul>
+			<li>The behavior of mobile applications and its consequences for our privacy</li>
+			<li>What <em>Exodus Privacy</em> tries to do against that</li>
+		</ul>
+	</section>
+
+	<section class="slide">
+		<h2 class="shout">Who we are</h2>
 	</section>
 
 	<section class="slide">
@@ -75,11 +84,6 @@
 			<li>Non-profit organization founded in October 2017</li>
 			<li>Undefined number of members</li>
 			<li>Strict legal rules</li>
-			<li>2 collaborations:
-				<ul>
-					<li>Yale Privacy Lab</li>
-					<li>F-Droid</li>
-				</ul>
 			<li>We do FLOSS</li>
 		</ul>
 		</p>
@@ -89,9 +93,7 @@
 	</section>
 
 	<section class="slide">
-		<div class="place middle center" style="text-align: center; font-size: 3em;">
-			Our goal
-		</div>
+		<h2 class="shout">Our goal</h2>
 	</section>
 
 	<section class="slide">
@@ -108,29 +110,33 @@
 			<li>Statically analyze <code>APK</code> files</li>
 		</ul>
 		<p>
-			We develop a transparency tool allowing people to know what is embedded in applications.
+			We develop a transparency tool allowing people to know what is embedded in Android applications.
 		</p>
-		<div class="place bottom center">
-			<img width="100px" src="assets/logo_purple_without_text_huge.png" alt="">
-		</div>
+		<p class="place bottom center">
+			<img class="place bottom center" width="100px" src="assets/logo_purple_without_text_huge.png" alt="">
+		</p>
 	</section>
 
-	<section class="slide">
-		<img src="assets/fr.meteo.2.png" class="cover">
+	<section class="slide clear">
+		<figure>
+			<img class="cover center" src="assets/fr.meteo.4.png">
+		</figure>
 	</section>
 
 	<section class="slide">
 		<h2>What we call a tracker</h2>
-		<blockquote class="place mediumquote">
+		<blockquote class="place medium">
 			A tracker is a piece of software meant to collect data about you or your usages.
 		</blockquote>
-		<div style="margin-top: 16em">
+		<p class="place bottom left">
 			Like <i><b>Ogury</b></i>, <i><b>Google Analytics</b></i>, <i><b>Teemo</b></i>, and many other.
-		</div>
+		</p>
 	</section>
 
-	<section class="slide">
-		<img src="assets/tracker.1.png" class="cover">
+	<section class="slide clear">
+		<figure>
+			<img class="cover center" src="assets/tracker.3.png">
+		</figure>
 	</section>
 
 	<section class="slide">
@@ -139,10 +145,14 @@
 		<ul>
 			<li>List Java classes embedded in the APK</li>
 			<li>Find classes matching the tracker code signature</li>
-			<li class="muted">Gplaycli: download the APK and get application details from Google Play</li>
-			<li class="muted">Androguard: get permissions, code version and certificates</li>
-			<li class="muted">Dexdump: extract list of classes from APK file</li>
 		</ul>
+		<h3 class="subtitle">What we use:</h3>
+		<ul>
+			<li><em>Gplaycli</em>: download the APK and get application details from Google Play</li>
+			<li><em>Androguard</em>: get permissions, code version and certificates</li>
+			<li><em>Dexdump</em>: extract list of classes from APK file</li>
+		</ul>
+
 	</section>
 
 	<section class="slide">
@@ -158,55 +168,67 @@
 			<img src="assets/static_analysis-plain.png" height="450px" class="">
 		</div>
 	</section>
-    <section class="slide">
-        <h2>Exodus Privacy Android Application</h2>
+
+  <section class="slide">
+    <h2>Exodus Privacy Android Application</h2>
 		<ul>
 			<li>Show the <b>trackers</b> and <b>required permissions</b> in the apps in your smartphone</li>
 			<li>Available on F-Droid and Google Play!</li>
 		</ul>
-		<img src="assets/exodus-app.2.png" height="325px">
-    </section>
-    <section class="slide">
-        <h2>Exodify: Exodus Privacy in your browser</h2>
-        <ul>
-            <li>Browser extension for Firefox and Chrome</li>
-            <li>Displays the number of trackers of each application</li>
-            <li>Quick link to submit the application for an analysis</li>
-            <!-- add qr code for Gplay and F-Droid DL -->
-        </ul>
-    </section>
-    <section class="slide">
-        <h2>Exodify: Exodus Privacy in your browser</h2>
-        <div class="place center bottom">
-            <img src="assets/img-banks.jpg" height="450px" class="">
-        </div>
-    </section>
+		<!-- add qr code for Gplay and F-Droid DL? -->
+		<p class="text-center">
+			<img src="assets/exodus-app.3a.png" height="325px" class="">
+			<img src="assets/exodus-app.3b.png" height="325px" class="">
+		</p>
+  </section>
+
+  <section class="slide">
+    <h2>Exodify: Exodus Privacy in your browser</h2>
+    <ul>
+      <li>Browser extension for Firefox and Chrome</li>
+      <li>Displays the number of trackers of each application</li>
+      <li>Quick link to submit the application for an analysis</li>
+    </ul>
+  </section>
+
+  <section class="slide">
+    <h2>Exodify: Exodus Privacy in your browser</h2>
+    <div class="place center bottom">
+      <img src="assets/img-banks.jpg" height="450px" class="">
+    </div>
+  </section>
 
 	<section class="slide">
-		<div class="place middle center" style="text-align: center; font-size:3em;">
-			First results
-		</div>
+		<h2>Local analysis tool</h2>
+		<h3 class="subtitle">exodus-standalone</h3>
+		<ul>
+			<li>εxodus CLI client for local APK static analysis</li>
+			<li>Can be used by developers to scan their own app before release</li>
+			<li>Prints reports as simple text or JSON</li>
+		</ul>
+	</section>
+
+	<section class="slide">
+		<h2 class="shout">Our results</h2>
 	</section>
 
 	<section class="slide">
 		<h2>What we did since our launch</h2>
 		<ul>
       <!--<li>We effectively exist since <b>11/24/2017</b> - <i>first public release</i>&nbsp;</li>-->
-			<li>We have identified <b>196 trackers</b>, analyzed <b>+53500 applications</b> and generated <b>+76000</b> reports</li>
-			<li>We helped developers and companies to <b>clean their applications</b></li>
-			<li>We provided a lot of advices/<b>courses to developers</b> who want to respect privacy</li>
-			<li>We did <b>deep audits</b> of several applications like <b>Baby+</b></li>
+			<li>We identified <b>+250 trackers</b>, analyzed <b>+60000 apps</b> and generated <b>+100000 reports</b></li>
+			<li>We provided a lot of <b>advices/courses to developers</b> who want to respect privacy</li>
+			<li>We did <b>deep audits</b> of several applications like <b>Deliveroo Rider</b> or <b>Baby+</b></li>
 			<li>We provided <b>statistics</b> and datasets to journalists and labs</li>
 			<li>We opened a <b>REST API</b></li>
-			<li>We created 3 animations to explain trackers in applications</li>
+			<li>We created video animations to explain trackers in applications</li>
 		</ul>
-		<p class="note">
-			Everything is free and open
-    </p>
+		<p class="note place bottom">Everything is free and open 🎄</p>
 	</section>
 
 	<section class="slide">
-		<img src="assets/trackers.1.png" class="cover">
+		<h2>Most frequent trackers on +60k applications</h2>
+		<center><img src="assets/trackers.4.png" width="550px"></center>
 	</section>
 
 	<section class="slide">
@@ -223,8 +245,8 @@
 			<li><b>Le Monde</b> - Des mouchards cachés dans vos applications pour smartphones</li>
 			<li><b>Next Inpact</b> - Rencontre avec Exodus Privacy, qui révèle les trackers […]</li>
 			<li><b>The Intercept</b> - Staggering Variety of Clandestine Trackers Found in Popular […]</li>
-			<li class="muted">+8000 articles in +20 languages during the first 6 months</li>
 		</ul>
+		<p class="note text-center">+8000 articles in +20 languages during the first 6 months</p>
 	</section>
 
 	<section class="slide">
@@ -232,21 +254,21 @@
 		<p>On Feb. 14th 2018 we met CNIL people in their office in Paris.</p>
 		<p>The CNIL will use εxodus for preliminary investigations.</p>
 		<p>Exchanges were very intersting in both sides and their interest is promising.</p>
-		<center><img src="assets/cnil-logo_rvb.jpg" width="400px"></center>
+		<p class="place bottom"><img src="assets/cnil-logo_rvb.jpg" width="300px"></p>
 	</section>
 
 	<section class="slide">
 		<h2>French TV also knows about us</h2>
-		<p>We made, for France2, a TV report about Waze application and all the "<i>unknown leaks</i>" of GPS data.
+		<p>We made, for French TV channel France2, a TV report about the application <em>Waze</em> and all the "<i>unknown leaks</i>" of GPS data.
 		<br>The report was broadcasted on Feb. 24th 2018</p>
-		<p class="note place bottom left" style="margin-left: 25px;">The replay can be found on <a href="https://youtu.be/ZrRneLW-X8Y?t=2380">YouTube</a>.</p>
-		<img src="assets/tout_compte_fait.png" width="550px" class="place bottom right" alt="">
+		<p class="note place bottom left">The replay can be found on <a href="https://youtu.be/ZrRneLW-X8Y?t=2380">YouTube</a>.</p>
+		<img src="assets/tout_compte_fait.png" width="500px" class="place bottom right" alt="">
 	</section>
+
   <section class="slide">
-    <div class="place middle center" style="text-align: center; font-size: 3em;">
-      Our material
-    </div>
+    <h2 class="shout">Our material</h2>
   </section>
+
   <section class="slide">
     <h2>Communication</h2>
     <p>We use different ways to make us visible:</p>
@@ -261,51 +283,63 @@
   </section>
 
 	<section class="slide">
-		<div class="place middle center text-center" style="font-size:3em;">
-			Our future
-		</div>
+		<h2 class="shout">Our future</h2>
   </section>
 
 	<section class="slide">
 		<h2>What's next</h2>
 		<ul>
-			<li><b>Revamp the reports</b> to make them more readable and comprehensive</li>
+			<li>Keep maintaining and improving the <b>εxodus platform and application</b></li>
 			<li>Create more videos and podcasts to <b>explain tracking on mobile</b></li>
 			<li>Continue to animate our Facebook page, PeerTube and YouTube channels</li>
 			<li>Translate our media and tools into new languages</li>
-			<li><b>Gather more and more motivated people</b> to increase quantity of volunteers and involved people</li>
-			<li>Your idea?</li>
+			<li><b>Gather more and more motivated people</b> to increase our number of volunteers</li>
+			<li><em>Your next idea?</em></li>
 		</ul>
 	</section>
 
 	<section class="slide">
 		<h2>What we need</h2>
-		We are a non-profit organization animated by volunteers. To stay alive, we need:
+		<div>We are a non-profit organization animated by volunteers.</div>
+		<div>To stay alive, we need:</div>
 		<div class="place text-center">
-			<h2>Help!<br>Contributions & Money</h2>
+			<h2>Contributions & Money</h2>
 		</div>
-		<div class="text-center" style="margin-top: 14em">
-			<h2>
-				<a href="https://exodus-privacy.eu.org/page/contribute">https://exodus-privacy.eu.org/page/contribute</a>
-			</h2>
-		</div>
+		<h2 class="text-center place bottom">
+				<a href="https://exodus-privacy.eu.org/en/page/contribute/">https://exodus-privacy.eu.org/en/page/contribute/</a>
+		</h2>
 	</section>
 
 	<section class="slide">
 		<h2>Thanks</h2>
-    We want the tanks a lot of peoples donators and partners.
-    <ul>
-      <li><img src="assets/gandi.png" width="48px" caption="gandi" style="vertical-align:middle;">&nbsp;Gandi</li>
-      <li><img src="assets/codeurs-en-liberte.svg" width="48px" caption="codeur-en-liberté" style="vertical-align:middle;">&nbsp;Codeurs en liberté</li>
-      <li><img src="assets/fdroid.svg" width="48px" caption="Fdroid" style="vertical-align:middle;">&nbsp;Fdroid</li>
-      <li><img src="assets/lqdn.svg" width="48px" caption ="La Quadrture du Net" style="vertical-align:middle;">&nbsp;La Quadrture du Net</li>
-      <li><img src="assets/yale-privacy-lab.png" width="48px" caption="Yale Privacy Lab" style="vertical-align:middle;">&nbsp;Yale privacy Lab</li>
-      <li><img src="assets/octopuce.svg" width="48px" caption="Octopuce" style="vertical-align:middle;">&nbsp;Octopuce</li>
-      <li>The community and all the regular or one shot donator.</li>
-    </ul>
+    We want the thank all our donators and partners:
+		<table class="no-border">
+			<tr>
+				<td><img src="assets/code-lutin.svg" width="50px" class="vmiddle">&nbsp;&nbsp;Code Lutin</td>
+				<td><img src="assets/codeurs-en-liberte.svg" width="50px" class="vmiddle">&nbsp;&nbsp;Codeurs en liberté</td>
+			</tr>
+			<tr>
+				<td><img src="assets/fdroid.svg" width="50px" class="vmiddle">&nbsp;&nbsp;F-Droid</td>
+				<td><img src="assets/gandi.png" width="50px" class="vmiddle">&nbsp;&nbsp;Gandi</td>
+			</tr>
+			<tr>
+				<td><img src="assets/lqdn.svg" width="50px" class="vmiddle">&nbsp;&nbsp;La Quadrature du Net</td>
+				<td><img src="assets/octopuce.svg" width="50px" class="vmiddle">&nbsp;&nbsp;Octopuce</td>
+			</tr>
+			<tr>
+				<td><img src="assets/yale-privacy-lab.png" width="50px" class="vmiddle">&nbsp;&nbsp;Yale Privacy Lab</td>
+				<td></td>
+			</tr>
+		</table>
+		<div>as well as <b>the community and all the regular or one-shot donators</b></div>
+	</section>
+
+	<section class="slide">
+		<h2 class="shout">Q/A</h2>
 	</section>
 
 	<div class="progress"></div>
+
 	<script src="shower/shower/shower.min.js"></script>
 </body>
 </html>
