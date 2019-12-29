@@ -22,10 +22,7 @@
 		}
 		blockquote.large {
 			line-height: 1.5;
-			font-size: 50px;
-		}
-		blockquote.medium {
-			font-size: 33px;
+			font-size: 40px;
 		}
 		.vmiddle {
 			vertical-align: middle;
@@ -52,10 +49,6 @@
 			<img class="cover center" src="assets/animated_logo_exodus.gif">
 		</figure>
 		<h2 class="place bottom center">Exodus Privacy</h2>
-	</section>
-
-	<section class="slide">
-		<h2 class="shout">Today's talk</h2>
 	</section>
 
 	<section class="slide">
@@ -93,10 +86,7 @@
 	</section>
 
 	<section class="slide">
-		<h2 class="shout">Our goal</h2>
-	</section>
-
-	<section class="slide">
+		<h2>Our goal</h2>
 		<blockquote class="place large">
 			Make people aware of permanent tracking on smartphones
 		</blockquote>
@@ -125,7 +115,7 @@
 
 	<section class="slide">
 		<h2>What we call a tracker</h2>
-		<blockquote class="place medium">
+		<blockquote class="place large">
 			A tracker is a piece of software meant to collect data about you or your usages.
 		</blockquote>
 		<p class="place bottom left">
@@ -157,33 +147,64 @@
 
 	<section class="slide">
 		<h2>Static analysis</h2>
-		<div class="place center bottom">
-			<img src="assets/static_analysis.png" height="450px">
-		</div>
+		<p class="text-center">
+			<img src="assets/static_analysis.png" height="425px">
+		</p>
 	</section>
 
 	<section class="slide">
 		<h2>Static analysis</h2>
-		<div class="place center bottom">
-			<img src="assets/static_analysis-plain.png" height="450px" class="">
-		</div>
+		<p class="text-center">
+			<img src="assets/static_analysis-plain.png" height="425px">
+		</p>
 	</section>
 
   <section class="slide">
-    <h2>Exodus Privacy Android Application</h2>
+    <h2 class="shout">Our tools</h2>
+  </section>
+
+  <section class="slide">
+    <h2>εxodus web platform</h2>
 		<ul>
-			<li>Show the <b>trackers</b> and <b>required permissions</b> in the apps in your smartphone</li>
-			<li>Available on F-Droid and Google Play!</li>
+			<li>Look for an Android application report with its search engine</li>
+      <li>Analyze an Android application by submitting its identifier</li>
+			<li>Get tips on how to better manage your privacy</li>
 		</ul>
-		<!-- add qr code for Gplay and F-Droid DL? -->
 		<p class="text-center">
-			<img src="assets/exodus-app.3a.png" height="325px" class="">
-			<img src="assets/exodus-app.3b.png" height="325px" class="">
+			<img src="assets/exodus-next.png" height="200px" class="">
+		</p>
+		<p class="text-center place bottom">
+			<a href="https://reports.exodus-privacy.eu.org/">https://reports.exodus-privacy.eu.org/</a>
 		</p>
   </section>
 
   <section class="slide">
-    <h2>Exodify: Exodus Privacy in your browser</h2>
+    <h2>Exodus Privacy Android application</h2>
+		<p>Show the <b>trackers</b> and <b>required permissions</b> in the apps in your smartphone</p>
+		<!-- add qr code for Gplay and F-Droid DL? -->
+		<p class="">
+			<img src="assets/exodus-app.3a.png" height="300px" class="">
+			<img src="assets/exodus-app.3b.png" height="300px" class="">
+		</p>
+		<p class="note place bottom">Available on F-Droid and Google Play!</p>
+  </section>
+
+	<section class="slide">
+		<h2>Standalone local analysis tool</h2>
+		<h3 class="subtitle">exodus-standalone</h3>
+		<ul>
+			<li>εxodus CLI client for local APK static analysis</li>
+			<li>Can be used by developers to scan their own app before release</li>
+			<li>Prints reports as simple text or JSON</li>
+			<li>Available as a Docker image for easier usage</li>
+		</ul>
+		<p class="text-center place bottom">
+			<a href="https://github.com/Exodus-Privacy/exodus-standalone">github.com/Exodus-Privacy/exodus-standalone</a>
+		</p>
+	</section>
+
+	<section class="slide">
+    <h2>Exodify: εxodus in your browser</h2>
     <ul>
       <li>Browser extension for Firefox and Chrome</li>
       <li>Displays the number of trackers of each application</li>
@@ -192,21 +213,28 @@
   </section>
 
   <section class="slide">
-    <h2>Exodify: Exodus Privacy in your browser</h2>
+    <h2>Exodify: εxodus in your browser</h2>
     <div class="place center bottom">
       <img src="assets/img-banks.jpg" height="450px" class="">
     </div>
   </section>
 
-	<section class="slide">
-		<h2>Local analysis tool</h2>
-		<h3 class="subtitle">exodus-standalone</h3>
+  <section class="slide">
+    <h2>ETIP</h2>
+		<h3 class="subtitle">εxodus tracker investigation platform</h3>
 		<ul>
-			<li>εxodus CLI client for local APK static analysis</li>
-			<li>Can be used by developers to scan their own app before release</li>
-			<li>Prints reports as simple text or JSON</li>
+			<li>Tracker database for εxodus</li>
+			<li>Open to everyone and filled by the community</li>
+			<li>Main features:</li>
+			<ul>
+				<li>Track all modifications on trackers</li>
+				<li>Detect rules collisions for signature</li>
+			</ul>
 		</ul>
-	</section>
+		<p class="text-center place bottom">
+			<a href="https://etip.exodus-privacy.eu.org/">https://etip.exodus-privacy.eu.org/</a>
+		</p>
+  </section>
 
 	<section class="slide">
 		<h2 class="shout">Our results</h2>
@@ -217,8 +245,8 @@
 		<ul>
       <!--<li>We effectively exist since <b>11/24/2017</b> - <i>first public release</i>&nbsp;</li>-->
 			<li>We identified <b>+250 trackers</b>, analyzed <b>+60000 apps</b> and generated <b>+100000 reports</b></li>
-			<li>We provided a lot of <b>advices/courses to developers</b> who want to respect privacy</li>
-			<li>We did <b>deep audits</b> of several applications like <b>Deliveroo Rider</b> or <b>Baby+</b></li>
+			<li>We provided <b>advices/courses to developers</b> who want to respect privacy</li>
+			<li>We performed <b>deep audits</b> of several applications like <b>Deliveroo Rider</b> or <b>Baby+</b></li>
 			<li>We provided <b>statistics</b> and datasets to journalists and labs</li>
 			<li>We opened a <b>REST API</b></li>
 			<li>We created video animations to explain trackers in applications</li>
@@ -266,18 +294,13 @@
 	</section>
 
   <section class="slide">
-    <h2 class="shout">Our material</h2>
-  </section>
-
-  <section class="slide">
     <h2>Communication</h2>
     <p>We use different ways to make us visible:</p>
     <ul>
-      <li>Stickers ☺</li>
-      <li>Flyers</li>
-      <li>YouTube channel</li>
-      <li>PeerTube channel</li>
+			<li>Our blog - <a href="https://news.exodus-privacy.eu.org/">https://news.exodus-privacy.eu.org/</a></li>
+      <li>PeerTube and YouTube channels</li>
       <li>Mastodon, Twitter and Facebook accounts</li>
+			<li>Flyers & Stickers ☺</li>
       <li>Talks like the one of today</li>
     </ul>
   </section>
