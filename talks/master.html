@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<title>Exodus Privacy</title>
 	<meta charset="utf-8">
@@ -14,22 +15,28 @@
 			font-size: 60px;
 			padding-bottom: 20px;
 		}
+
 		h3.subtitle {
 			font-weight: bold;
 		}
+
 		.text-center {
 			text-align: center;
 		}
+
 		blockquote.large {
 			line-height: 1.5;
 			font-size: 40px;
 		}
+
 		.vmiddle {
 			vertical-align: middle;
 		}
+
 		p.left {
 			margin-left: 25px;
 		}
+
 		table.no-border tr td {
 			background: none !important;
 			padding-top: 10px;
@@ -138,7 +145,7 @@
 		</ul>
 		<h3 class="subtitle">What we use:</h3>
 		<ul>
-			<li><em>Gplaycli</em>: download the APK and get application details from Google Play</li>
+			<li><em>Google Play/F-Droid API</em>: download the APK and get application details from store</li>
 			<li><em>Androguard</em>: get permissions, code version and certificates</li>
 			<li><em>Dexdump</em>: extract list of classes from APK file</li>
 		</ul>
@@ -159,15 +166,15 @@
 		</p>
 	</section>
 
-  <section class="slide">
-    <h2 class="shout">Our tools</h2>
-  </section>
+	<section class="slide">
+		<h2 class="shout">Our tools</h2>
+	</section>
 
-  <section class="slide">
-    <h2>εxodus web platform</h2>
+	<section class="slide">
+		<h2>εxodus web platform</h2>
 		<ul>
 			<li>Look for an Android application report with its search engine</li>
-      <li>Analyze an Android application by submitting its identifier</li>
+			<li>Analyze an Android application by submitting its identifier</li>
 			<li>Get tips on how to better manage your privacy</li>
 		</ul>
 		<p class="text-center">
@@ -176,18 +183,34 @@
 		<p class="text-center place bottom">
 			<a href="https://reports.exodus-privacy.eu.org/">https://reports.exodus-privacy.eu.org/</a>
 		</p>
-  </section>
+	</section>
 
-  <section class="slide">
-    <h2>Exodus Privacy Android application</h2>
+	<section class="slide">
+		<h2>εxodus Android application</h2>
 		<p>Show the <b>trackers</b> and <b>required permissions</b> in the apps in your smartphone</p>
 		<!-- add qr code for Gplay and F-Droid DL? -->
 		<p class="">
-			<img src="assets/exodus-app.3a.png" height="300px" class="">
-			<img src="assets/exodus-app.3b.png" height="300px" class="">
+			<img src="assets/exodus-app.4a.png" height="300px" class="">
+			<img src="assets/exodus-app.4b.png" height="300px" class="">
 		</p>
 		<p class="note place bottom">Available on F-Droid and Google Play!</p>
-  </section>
+	</section>
+
+	<section class="slide">
+		<h2>Exodify: εxodus in your browser</h2>
+		<ul>
+			<li>Browser extension for Firefox and Chrome</li>
+			<li>Displays the number of trackers of each application</li>
+			<li>Quick link to submit the application for an analysis</li>
+		</ul>
+	</section>
+
+	<section class="slide">
+		<h2>Exodify: εxodus in your browser</h2>
+		<div class="place center bottom">
+			<img src="assets/img-banks.jpg" height="450px" class="">
+		</div>
+	</section>
 
 	<section class="slide">
 		<h2>Standalone local analysis tool</h2>
@@ -199,28 +222,13 @@
 			<li>Available as a Docker image for easier usage</li>
 		</ul>
 		<p class="text-center place bottom">
-			<a href="https://github.com/Exodus-Privacy/exodus-standalone">github.com/Exodus-Privacy/exodus-standalone</a>
+			<a
+				href="https://github.com/Exodus-Privacy/exodus-standalone">github.com/Exodus-Privacy/exodus-standalone</a>
 		</p>
 	</section>
 
 	<section class="slide">
-    <h2>Exodify: εxodus in your browser</h2>
-    <ul>
-      <li>Browser extension for Firefox and Chrome</li>
-      <li>Displays the number of trackers of each application</li>
-      <li>Quick link to submit the application for an analysis</li>
-    </ul>
-  </section>
-
-  <section class="slide">
-    <h2>Exodify: εxodus in your browser</h2>
-    <div class="place center bottom">
-      <img src="assets/img-banks.jpg" height="450px" class="">
-    </div>
-  </section>
-
-  <section class="slide">
-    <h2>ETIP</h2>
+		<h2>ETIP</h2>
 		<h3 class="subtitle">εxodus tracker investigation platform</h3>
 		<ul>
 			<li>Tracker database for εxodus</li>
@@ -234,7 +242,7 @@
 		<p class="text-center place bottom">
 			<a href="https://etip.exodus-privacy.eu.org/">https://etip.exodus-privacy.eu.org/</a>
 		</p>
-  </section>
+	</section>
 
 	<section class="slide">
 		<h2 class="shout">Our results</h2>
@@ -243,8 +251,9 @@
 	<section class="slide">
 		<h2>What we did since our launch</h2>
 		<ul>
-      <!--<li>We effectively exist since <b>11/24/2017</b> - <i>first public release</i>&nbsp;</li>-->
-			<li>We identified <b>+250 trackers</b>, analyzed <b>+60000 apps</b> and generated <b>+100000 reports</b></li>
+			<!--<li>We effectively exist since <b>11/24/2017</b> - <i>first public release</i>&nbsp;</li>-->
+			<li>We identified <b>+370 trackers</b>, analyzed <b>+87000 apps</b> and generated <b>+167000 reports</b>
+			</li>
 			<li>We provided <b>advices/courses to developers</b> who want to respect privacy</li>
 			<li>We performed <b>deep audits</b> of several applications like <b>Deliveroo Rider</b> or <b>Baby+</b></li>
 			<li>We provided <b>statistics</b> and datasets to journalists and labs</li>
@@ -255,8 +264,8 @@
 	</section>
 
 	<section class="slide">
-		<h2>Most frequent trackers on +60k applications</h2>
-		<center><img src="assets/trackers.4.png" width="550px"></center>
+		<h2>Most frequent trackers on +87k applications</h2>
+		<center><img src="assets/trackers.5.png" width="550px"></center>
 	</section>
 
 	<section class="slide">
@@ -264,7 +273,7 @@
 	</section>
 
 	<section class="slide">
-		<h2>We are in the press too</h2>
+		<h2>Exodus Privacy in the press</h2>
 		<ul>
 			<li><b>MotherBoard</b> - The Targets of Mobile Apps: Your Health, Your Ancestors, […]</li>
 			<li><b>Numerama</b> - Lutter contre les mouchards des apps, une cause citoyenne : […]</li>
@@ -278,46 +287,15 @@
 	</section>
 
 	<section class="slide">
-		<h2>We are known by the CNIL</h2>
-		<p>On Feb. 14th 2018 we met CNIL people in their office in Paris.</p>
-		<p>The CNIL will use εxodus for preliminary investigations.</p>
-		<p>Exchanges were very intersting in both sides and their interest is promising.</p>
-		<p class="place bottom"><img src="assets/cnil-logo_rvb.jpg" width="300px"></p>
-	</section>
-
-	<section class="slide">
-		<h2>French TV also knows about us</h2>
-		<p>We made, for French TV channel France2, a TV report about the application <em>Waze</em> and all the "<i>unknown leaks</i>" of GPS data.
-		<br>The report was broadcasted on Feb. 24th 2018</p>
-		<p class="note place bottom left">The replay can be found on <a href="https://youtu.be/ZrRneLW-X8Y?t=2380">YouTube</a>.</p>
-		<img src="assets/tout_compte_fait.png" width="500px" class="place bottom right" alt="">
-	</section>
-
-  <section class="slide">
-    <h2>Communication</h2>
-    <p>We use different ways to make us visible:</p>
-    <ul>
-			<li>Our blog - <a href="https://news.exodus-privacy.eu.org/">https://news.exodus-privacy.eu.org/</a></li>
-      <li>PeerTube and YouTube channels</li>
-      <li>Mastodon, Twitter and Facebook accounts</li>
-			<li>Flyers & Stickers ☺</li>
-      <li>Talks like the one of today</li>
-    </ul>
-  </section>
-
-	<section class="slide">
-		<h2 class="shout">Our future</h2>
-  </section>
-
-	<section class="slide">
-		<h2>What's next</h2>
+		<h2>Communication</h2>
+		<p>We use different ways to make us visible:</p>
 		<ul>
-			<li>Keep maintaining and improving the <b>εxodus platform and application</b></li>
-			<li>Create more videos and podcasts to <b>explain tracking on mobile</b></li>
-			<li>Continue to animate our Facebook page, PeerTube and YouTube channels</li>
-			<li>Translate our media and tools into new languages</li>
-			<li><b>Gather more and more motivated people</b> to increase our number of volunteers</li>
-			<li><em>Your next idea?</em></li>
+			<li>Our blog - <a href="https://exodus-privacy.eu.org/en/post">https://exodus-privacy.eu.org/en/posts</a>
+			</li>
+			<li>PeerTube and YouTube channels</li>
+			<li>Mastodon, Twitter and Facebook accounts</li>
+			<li>Flyers & Stickers ☺</li>
+			<li>Talks like the one of today</li>
 		</ul>
 	</section>
 
@@ -329,17 +307,19 @@
 			<h2>Contributions & Money</h2>
 		</div>
 		<h2 class="text-center place bottom">
-				<a href="https://exodus-privacy.eu.org/en/page/contribute/">https://exodus-privacy.eu.org/en/page/contribute/</a>
+			<a
+				href="https://exodus-privacy.eu.org/en/page/contribute/">https://exodus-privacy.eu.org/en/page/contribute/</a>
 		</h2>
 	</section>
 
 	<section class="slide">
 		<h2>Thanks</h2>
-    We want the thank all our donators and partners:
+		We want the thank all our donators and partners:
 		<table class="no-border">
 			<tr>
 				<td><img src="assets/code-lutin.svg" width="50px" class="vmiddle">&nbsp;&nbsp;Code Lutin</td>
-				<td><img src="assets/codeurs-en-liberte.svg" width="50px" class="vmiddle">&nbsp;&nbsp;Codeurs en liberté</td>
+				<td><img src="assets/codeurs-en-liberte.svg" width="50px" class="vmiddle">&nbsp;&nbsp;Codeurs en liberté
+				</td>
 			</tr>
 			<tr>
 				<td><img src="assets/fdroid.svg" width="50px" class="vmiddle">&nbsp;&nbsp;F-Droid</td>
@@ -350,8 +330,13 @@
 				<td><img src="assets/octopuce.svg" width="50px" class="vmiddle">&nbsp;&nbsp;Octopuce</td>
 			</tr>
 			<tr>
-				<td><img src="assets/yale-privacy-lab.png" width="50px" class="vmiddle">&nbsp;&nbsp;Yale Privacy Lab</td>
-				<td></td>
+				<td><img src="assets/yale-privacy-lab.png" width="50px" class="vmiddle">&nbsp;&nbsp;Yale Privacy Lab
+				</td>
+				<td><img src="assets/logo_DLA.svg" width="50px" class="vmiddle">&nbsp;&nbsp;Defensive Lab Agency</td>
+			</tr>
+			<tr>
+				<td><img src="assets/framasoft.png" width="50px" class="vmiddle">&nbsp;&nbsp;Framasoft</td>
+				<td><img src="assets/fondation-Afnic.png" width="50px" class="vmiddle">&nbsp;&nbsp;Fondation AFNIC</td>
 			</tr>
 		</table>
 		<div>as well as <b>the community and all the regular or one-shot donators</b></div>
@@ -365,4 +350,5 @@
 
 	<script src="shower/shower/shower.min.js"></script>
 </body>
+
 </html>
